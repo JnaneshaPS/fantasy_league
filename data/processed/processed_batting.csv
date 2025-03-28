@@ -1,0 +1,747 @@
+player_name,team,matches,innings,runs,batting_average,strike_rate,role
+CH Gayle,Royal Challengers Bangalore,141,0,0,0,0,Unknown
+Mandeep Singh,Royal Challengers Bangalore,111,0,0,0,0,Unknown
+TM Head,Royal Challengers Bangalore,27,0,0,0,0,Unknown
+KM Jadhav,Royal Challengers Bangalore,95,0,0,0,0,Unknown
+SR Watson,Royal Challengers Bangalore,145,0,0,0,0,Unknown
+Sachin Baby,Royal Challengers Bangalore,19,0,0,0,0,Unknown
+STR Binny,Royal Challengers Bangalore,95,0,0,0,0,Unknown
+S Aravind,Royal Challengers Bangalore,38,0,0,0,0,Unknown
+TS Mills,Royal Challengers Bangalore,10,0,0,0,0,Unknown
+YS Chahal,Royal Challengers Bangalore,161,0,0,0,0,Unknown
+A Choudhary,Royal Challengers Bangalore,5,0,0,0,0,Unknown
+DA Warner,Sunrisers Hyderabad,184,0,0,0,0,Unknown
+S Dhawan,Sunrisers Hyderabad,222,0,0,0,0,Unknown
+MC Henriques,Sunrisers Hyderabad,62,0,0,0,0,Unknown
+Yuvraj Singh,Sunrisers Hyderabad,132,0,0,0,0,Unknown
+DJ Hooda,Sunrisers Hyderabad,119,0,0,0,0,Unknown
+BCJ Cutting,Sunrisers Hyderabad,21,0,0,0,0,Unknown
+NV Ojha,Sunrisers Hyderabad,113,0,0,0,0,Unknown
+Bipul Sharma,Sunrisers Hyderabad,33,0,0,0,0,Unknown
+B Kumar,Sunrisers Hyderabad,176,0,0,0,0,Unknown
+A Nehra,Sunrisers Hyderabad,88,0,0,0,0,Unknown
+Rashid Khan,Sunrisers Hyderabad,122,0,0,0,0,Unknown
+PA Patel,Mumbai Indians,139,0,0,0,0,Unknown
+JC Buttler,Mumbai Indians,108,0,0,0,0,Unknown
+RG Sharma,Mumbai Indians,258,0,0,0,0,Unknown
+N Rana,Mumbai Indians,109,0,0,0,0,Unknown
+AT Rayudu,Mumbai Indians,204,0,0,0,0,Unknown
+KH Pandya,Mumbai Indians,128,0,0,0,0,Unknown
+KA Pollard,Mumbai Indians,189,0,0,0,0,Unknown
+HH Pandya,Mumbai Indians,137,0,0,0,0,Unknown
+TG Southee,Mumbai Indians,54,0,0,0,0,Unknown
+MJ McClenaghan,Mumbai Indians,56,0,0,0,0,Unknown
+JJ Bumrah,Mumbai Indians,133,0,0,0,0,Unknown
+AM Rahane,Rising Pune Supergiant,187,0,0,0,0,Unknown
+MA Agarwal,Rising Pune Supergiant,126,0,0,0,0,Unknown
+SPD Smith,Rising Pune Supergiant,103,0,0,0,0,Unknown
+BA Stokes,Rising Pune Supergiant,45,0,0,0,0,Unknown
+MS Dhoni,Rising Pune Supergiant,264,0,0,0,0,Unknown
+MK Tiwary,Rising Pune Supergiant,98,0,0,0,0,Unknown
+R Bhatia,Rising Pune Supergiant,95,0,0,0,0,Unknown
+DL Chahar,Rising Pune Supergiant,82,0,0,0,0,Unknown
+A Zampa,Rising Pune Supergiant,22,0,0,0,0,Unknown
+AB Dinda,Rising Pune Supergiant,78,0,0,0,0,Unknown
+Imran Tahir,Rising Pune Supergiant,59,0,0,0,0,Unknown
+JJ Roy,Gujarat Lions,21,0,0,0,0,Unknown
+BB McCullum,Gujarat Lions,109,0,0,0,0,Unknown
+SK Raina,Gujarat Lions,204,0,0,0,0,Unknown
+AJ Finch,Gujarat Lions,92,0,0,0,0,Unknown
+KD Karthik,Gujarat Lions,257,0,0,0,0,Unknown
+DR Smith,Gujarat Lions,91,0,0,0,0,Unknown
+MS Gony,Gujarat Lions,44,0,0,0,0,Unknown
+P Kumar,Gujarat Lions,119,0,0,0,0,Unknown
+SB Jakati,Gujarat Lions,59,0,0,0,0,Unknown
+DS Kulkarni,Gujarat Lions,92,0,0,0,0,Unknown
+S Kaushik,Gujarat Lions,10,0,0,0,0,Unknown
+G Gambhir,Kolkata Knight Riders,154,0,0,0,0,Unknown
+CA Lynn,Kolkata Knight Riders,42,0,0,0,0,Unknown
+RV Uthappa,Kolkata Knight Riders,205,0,0,0,0,Unknown
+MK Pandey,Kolkata Knight Riders,171,0,0,0,0,Unknown
+YK Pathan,Kolkata Knight Riders,174,0,0,0,0,Unknown
+SA Yadav,Kolkata Knight Riders,151,0,0,0,0,Unknown
+CR Woakes,Kolkata Knight Riders,21,0,0,0,0,Unknown
+PP Chawla,Kolkata Knight Riders,192,0,0,0,0,Unknown
+Kuldeep Yadav,Kolkata Knight Riders,85,0,0,0,0,Unknown
+SP Narine,Kolkata Knight Riders,177,0,0,0,0,Unknown
+TA Boult,Kolkata Knight Riders,104,0,0,0,0,Unknown
+HM Amla,Kings XI Punjab,16,0,0,0,0,Unknown
+M Vohra,Kings XI Punjab,56,0,0,0,0,Unknown
+WP Saha,Kings XI Punjab,169,0,0,0,0,Unknown
+AR Patel,Kings XI Punjab,151,0,0,0,0,Unknown
+GJ Maxwell,Kings XI Punjab,135,0,0,0,0,Unknown
+DA Miller,Kings XI Punjab,132,0,0,0,0,Unknown
+MP Stoinis,Kings XI Punjab,97,0,0,0,0,Unknown
+Swapnil Singh,Kings XI Punjab,14,0,0,0,0,Unknown
+MM Sharma,Kings XI Punjab,113,0,0,0,0,Unknown
+Sandeep Sharma,Kings XI Punjab,128,0,0,0,0,Unknown
+T Natarajan,Kings XI Punjab,61,0,0,0,0,Unknown
+DT Christian,Rising Pune Supergiant,49,0,0,0,0,Unknown
+RD Chahar,Rising Pune Supergiant,78,0,0,0,0,Unknown
+Vishnu Vinod,Royal Challengers Bangalore,6,0,0,0,0,Unknown
+P Negi,Royal Challengers Bangalore,50,0,0,0,0,Unknown
+Iqbal Abdulla,Royal Challengers Bangalore,49,0,0,0,0,Unknown
+B Stanlake,Royal Challengers Bangalore,6,0,0,0,0,Unknown
+AP Tare,Delhi Daredevils,35,0,0,0,0,Unknown
+SW Billings,Delhi Daredevils,30,0,0,0,0,Unknown
+KK Nair,Delhi Daredevils,76,0,0,0,0,Unknown
+SV Samson,Delhi Daredevils,169,0,0,0,0,Unknown
+RR Pant,Delhi Daredevils,113,0,0,0,0,Unknown
+CH Morris,Delhi Daredevils,81,0,0,0,0,Unknown
+CR Brathwaite,Delhi Daredevils,16,0,0,0,0,Unknown
+PJ Cummins,Delhi Daredevils,60,0,0,0,0,Unknown
+A Mishra,Delhi Daredevils,162,0,0,0,0,Unknown
+S Nadeem,Delhi Daredevils,72,0,0,0,0,Unknown
+Z Khan,Delhi Daredevils,99,0,0,0,0,Unknown
+Basil Thampi,Gujarat Lions,25,0,0,0,0,Unknown
+Tejas Baroka,Gujarat Lions,1,0,0,0,0,Unknown
+AS Rajpoot,Kolkata Knight Riders,29,0,0,0,0,Unknown
+Harbhajan Singh,Mumbai Indians,163,0,0,0,0,Unknown
+SL Malinga,Mumbai Indians,122,0,0,0,0,Unknown
+VR Aaron,Kings XI Punjab,52,0,0,0,0,Unknown
+AB de Villiers,Royal Challengers Bangalore,183,0,0,0,0,Unknown
+CJ Anderson,Delhi Daredevils,30,0,0,0,0,Unknown
+F du Plessis,Rising Pune Supergiant,145,0,0,0,0,Unknown
+RA Tripathi,Rising Pune Supergiant,96,0,0,0,0,Unknown
+V Shankar,Sunrisers Hyderabad,72,0,0,0,0,Unknown
+Mustafizur Rahman,Sunrisers Hyderabad,57,0,0,0,0,Unknown
+I Sharma,Kings XI Punjab,110,0,0,0,0,Unknown
+C de Grandhomme,Kolkata Knight Riders,25,0,0,0,0,Unknown
+UT Yadav,Kolkata Knight Riders,148,0,0,0,0,Unknown
+V Kohli,Royal Challengers Bangalore,252,0,0,0,0,Unknown
+S Badree,Royal Challengers Bangalore,12,0,0,0,0,Unknown
+Ishan Kishan,Gujarat Lions,107,0,0,0,0,Unknown
+RA Jadeja,Gujarat Lions,240,0,0,0,0,Unknown
+AJ Tye,Gujarat Lions,30,0,0,0,0,Unknown
+Ankit Sharma,Rising Pune Supergiant,22,0,0,0,0,Unknown
+SN Thakur,Rising Pune Supergiant,97,0,0,0,0,Unknown
+LH Ferguson,Rising Pune Supergiant,45,0,0,0,0,Unknown
+SS Iyer,Delhi Daredevils,116,0,0,0,0,Unknown
+EJG Morgan,Kings XI Punjab,83,0,0,0,0,Unknown
+KC Cariappa,Kings XI Punjab,11,0,0,0,0,Unknown
+MM Patel,Gujarat Lions,63,0,0,0,0,Unknown
+JD Unadkat,Rising Pune Supergiant,105,0,0,0,0,Unknown
+AF Milne,Royal Challengers Bangalore,10,0,0,0,0,Unknown
+AD Mathews,Delhi Daredevils,49,0,0,0,0,Unknown
+Mohammed Shami,Delhi Daredevils,112,0,0,0,0,Unknown
+NM Coulter-Nile,Kolkata Knight Riders,39,0,0,0,0,Unknown
+Mohammad Nabi,Sunrisers Hyderabad,24,0,0,0,0,Unknown
+BB Sran,Sunrisers Hyderabad,24,0,0,0,0,Unknown
+S Kaul,Sunrisers Hyderabad,55,0,0,0,0,Unknown
+J Yadav,Delhi Daredevils,20,0,0,0,0,Unknown
+KS Williamson,Sunrisers Hyderabad,79,0,0,0,0,Unknown
+Mohammed Siraj,Sunrisers Hyderabad,94,0,0,0,0,Unknown
+SE Marsh,Kings XI Punjab,71,0,0,0,0,Unknown
+Gurkeerat Singh,Kings XI Punjab,41,0,0,0,0,Unknown
+JP Faulkner,Gujarat Lions,60,0,0,0,0,Unknown
+Shakib Al Hasan,Kolkata Knight Riders,71,0,0,0,0,Unknown
+K Rabada,Delhi Daredevils,81,0,0,0,0,Unknown
+MG Johnson,Mumbai Indians,54,0,0,0,0,Unknown
+Washington Sundar,Rising Pune Supergiant,60,0,0,0,0,Unknown
+AD Nath,Gujarat Lions,14,0,0,0,0,Unknown
+SS Agarwal,Gujarat Lions,1,0,0,0,0,Unknown
+NB Singh,Gujarat Lions,2,0,0,0,0,Unknown
+KV Sharma,Mumbai Indians,84,0,0,0,0,Unknown
+DM Bravo,Kolkata Knight Riders,1,0,0,0,0,Unknown
+Ankit Soni,Gujarat Lions,7,0,0,0,0,Unknown
+AR Bawne,Delhi Daredevils,1,0,0,0,0,Unknown
+SP Jackson,Kolkata Knight Riders,9,0,0,0,0,Unknown
+MJ Guptill,Kings XI Punjab,13,0,0,0,0,Unknown
+Anureet Singh,Kings XI Punjab,23,0,0,0,0,Unknown
+IK Pathan,Gujarat Lions,103,0,0,0,0,Unknown
+PJ Sangwan,Gujarat Lions,42,0,0,0,0,Unknown
+MN Samuels,Delhi Daredevils,15,0,0,0,0,Unknown
+LMP Simmons,Mumbai Indians,29,0,0,0,0,Unknown
+R Tewatia,Kings XI Punjab,94,0,0,0,0,Unknown
+MJ Henry,Kings XI Punjab,6,0,0,0,0,Unknown
+SS Tiwary,Mumbai Indians,92,0,0,0,0,Unknown
+R Vinay Kumar,Mumbai Indians,104,0,0,0,0,Unknown
+HV Patel,Royal Challengers Bangalore,107,0,0,0,0,Unknown
+Avesh Khan,Royal Challengers Bangalore,63,0,0,0,0,Unknown
+IR Jaggi,Kolkata Knight Riders,7,0,0,0,0,Unknown
+CJ Jordan,Sunrisers Hyderabad,34,0,0,0,0,Unknown
+E Lewis,Mumbai Indians,27,0,0,0,0,Unknown
+M Markande,Mumbai Indians,37,0,0,0,0,Unknown
+DJ Bravo,Chennai Super Kings,160,0,0,0,0,Unknown
+MA Wood,Chennai Super Kings,5,0,0,0,0,Unknown
+C Munro,Delhi Daredevils,13,0,0,0,0,Unknown
+KL Rahul,Kings XI Punjab,132,0,0,0,0,Unknown
+R Ashwin,Kings XI Punjab,211,0,0,0,0,Unknown
+Mujeeb Ur Rahman,Kings XI Punjab,19,0,0,0,0,Unknown
+Q de Kock,Royal Challengers Bangalore,109,0,0,0,0,Unknown
+SN Khan,Royal Challengers Bangalore,50,0,0,0,0,Unknown
+K Khejroliya,Royal Challengers Bangalore,7,0,0,0,0,Unknown
+RK Singh,Kolkata Knight Riders,47,0,0,0,0,Unknown
+AD Russell,Kolkata Knight Riders,128,0,0,0,0,Unknown
+DJM Short,Rajasthan Royals,7,0,0,0,0,Unknown
+K Gowtham,Rajasthan Royals,36,0,0,0,0,Unknown
+S Gopal,Rajasthan Royals,52,0,0,0,0,Unknown
+B Laughlin,Rajasthan Royals,9,0,0,0,0,Unknown
+TK Curran,Kolkata Knight Riders,13,0,0,0,0,Unknown
+A Dananjaya,Mumbai Indians,1,0,0,0,0,Unknown
+Shubman Gill,Kolkata Knight Riders,104,0,0,0,0,Unknown
+Shivam Mavi,Kolkata Knight Riders,32,0,0,0,0,Unknown
+M Vijay,Chennai Super Kings,106,0,0,0,0,Unknown
+H Klaasen,Rajasthan Royals,37,0,0,0,0,Unknown
+RK Bhui,Sunrisers Hyderabad,4,0,0,0,0,Unknown
+JC Archer,Rajasthan Royals,42,0,0,0,0,Unknown
+PP Shaw,Delhi Daredevils,79,0,0,0,0,Unknown
+LE Plunkett,Delhi Daredevils,7,0,0,0,0,Unknown
+JP Duminy,Mumbai Indians,83,0,0,0,0,Unknown
+AD Hales,Sunrisers Hyderabad,6,0,0,0,0,Unknown
+MK Lomror,Rajasthan Royals,40,0,0,0,0,Unknown
+IS Sodhi,Rajasthan Royals,8,0,0,0,0,Unknown
+M Ashwin,Royal Challengers Bangalore,44,0,0,0,0,Unknown
+KM Asif,Chennai Super Kings,7,0,0,0,0,Unknown
+L Ngidi,Chennai Super Kings,14,0,0,0,0,Unknown
+DR Shorey,Chennai Super Kings,2,0,0,0,0,Unknown
+DJ Willey,Chennai Super Kings,11,0,0,0,0,Unknown
+M Prasidh Krishna,Kolkata Knight Riders,52,0,0,0,0,Unknown
+MM Ali,Royal Challengers Bangalore,68,0,0,0,0,Unknown
+SP Goswami,Sunrisers Hyderabad,31,0,0,0,0,Unknown
+P Chopra,Rajasthan Royals,2,0,0,0,0,Unknown
+JPR Scantlebury-Searles,Kolkata Knight Riders,4,0,0,0,0,Unknown
+Abhishek Sharma,Delhi Daredevils,65,0,0,0,0,Unknown
+S Lamichhane,Delhi Daredevils,9,0,0,0,0,Unknown
+CJ Dala,Delhi Daredevils,1,0,0,0,0,Unknown
+KK Ahmed,Sunrisers Hyderabad,58,0,0,0,0,Unknown
+SO Hetmyer,Royal Challengers Bangalore,74,0,0,0,0,Unknown
+S Dube,Royal Challengers Bangalore,66,0,0,0,0,Unknown
+Navdeep Saini,Royal Challengers Bangalore,31,0,0,0,0,Unknown
+JM Bairstow,Sunrisers Hyderabad,50,0,0,0,0,Unknown
+CA Ingram,Delhi Capitals,15,0,0,0,0,Unknown
+KMA Paul,Delhi Capitals,8,0,0,0,0,Unknown
+Rasikh Salam,Mumbai Indians,12,0,0,0,0,Unknown
+N Pooran,Kings XI Punjab,78,0,0,0,0,Unknown
+SM Curran,Kings XI Punjab,60,0,0,0,0,Unknown
+GC Viljoen,Kings XI Punjab,6,0,0,0,0,Unknown
+CV Varun,Kings XI Punjab,72,0,0,0,0,Unknown
+NS Naik,Kolkata Knight Riders,4,0,0,0,0,Unknown
+GH Vihari,Delhi Capitals,24,0,0,0,0,Unknown
+P Ray Barman,Royal Challengers Bangalore,1,0,0,0,0,Unknown
+MJ Santner,Chennai Super Kings,19,0,0,0,0,Unknown
+JP Behrendorff,Mumbai Indians,17,0,0,0,0,Unknown
+SC Kuggeleijn,Chennai Super Kings,2,0,0,0,0,Unknown
+AS Joseph,Mumbai Indians,22,0,0,0,0,Unknown
+S Midhun,Rajasthan Royals,1,0,0,0,0,Unknown
+HF Gurney,Kolkata Knight Riders,8,0,0,0,0,Unknown
+SD Lad,Mumbai Indians,1,0,0,0,0,Unknown
+R Parag,Rajasthan Royals,71,0,0,0,0,Unknown
+JL Denly,Kolkata Knight Riders,1,0,0,0,0,Unknown
+LS Livingstone,Rajasthan Royals,40,0,0,0,0,Unknown
+Arshdeep Singh,Kings XI Punjab,66,0,0,0,0,Unknown
+AJ Turner,Rajasthan Royals,6,0,0,0,0,Unknown
+DW Steyn,Royal Challengers Bangalore,95,0,0,0,0,Unknown
+Harpreet Brar,Kings XI Punjab,41,0,0,0,0,Unknown
+SE Rutherford,Delhi Capitals,11,0,0,0,0,Unknown
+Y Prithvi Raj,Kolkata Knight Riders,2,0,0,0,0,Unknown
+O Thomas,Rajasthan Royals,4,0,0,0,0,Unknown
+AS Roy,Mumbai Indians,10,0,0,0,0,Unknown
+S Sandeep Warrier,Kolkata Knight Riders,10,0,0,0,0,Unknown
+P Simran Singh,Kings XI Punjab,35,0,0,0,0,Unknown
+J Suchith,Delhi Capitals,22,0,0,0,0,Unknown
+JL Pattinson,Mumbai Indians,10,0,0,0,0,Unknown
+A Nortje,Delhi Capitals,46,0,0,0,0,Unknown
+SS Cottrell,Kings XI Punjab,6,0,0,0,0,Unknown
+Ravi Bishnoi,Kings XI Punjab,68,0,0,0,0,Unknown
+T Banton,Kolkata Knight Riders,2,0,0,0,0,Unknown
+D Padikkal,Royal Challengers Bangalore,65,0,0,0,0,Unknown
+I Udana,Royal Challengers Bangalore,10,0,0,0,0,Unknown
+PK Garg,Sunrisers Hyderabad,23,0,0,0,0,Unknown
+JO Holder,Sunrisers Hyderabad,46,0,0,0,0,Unknown
+Abdul Samad,Sunrisers Hyderabad,51,0,0,0,0,Unknown
+YBK Jaiswal,Rajasthan Royals,54,0,0,0,0,Unknown
+RD Gaikwad,Chennai Super Kings,67,0,0,0,0,Unknown
+KL Nagarkoti,Kolkata Knight Riders,12,0,0,0,0,Unknown
+TU Deshpande,Delhi Capitals,38,0,0,0,0,Unknown
+JR Philippe,Royal Challengers Bangalore,5,0,0,0,0,Unknown
+Kartik Tyagi,Rajasthan Royals,20,0,0,0,0,Unknown
+JDS Neesham,Kings XI Punjab,14,0,0,0,0,Unknown
+Shahbaz Ahmed,Royal Challengers Bangalore,56,0,0,0,0,Unknown
+DR Sams,Delhi Capitals,16,0,0,0,0,Unknown
+N Jagadeesan,Chennai Super Kings,13,0,0,0,0,Unknown
+AT Carey,Delhi Capitals,3,0,0,0,0,Unknown
+JR Hazlewood,Chennai Super Kings,28,0,0,0,0,Unknown
+CJ Green,Kolkata Knight Riders,1,0,0,0,0,Unknown
+MR Marsh,Sunrisers Hyderabad,44,0,0,0,0,Unknown
+P Dubey,Delhi Capitals,4,0,0,0,0,Unknown
+Monu Kumar,Chennai Super Kings,1,0,0,0,0,Unknown
+M Jansen,Mumbai Indians,22,0,0,0,0,Unknown
+RM Patidar,Royal Challengers Bangalore,28,0,0,0,0,Unknown
+KA Jamieson,Royal Challengers Bangalore,9,0,0,0,0,Unknown
+M Shahrukh Khan,Punjab Kings,41,0,0,0,0,Unknown
+JA Richardson,Punjab Kings,4,0,0,0,0,Unknown
+RP Meredith,Punjab Kings,18,0,0,0,0,Unknown
+C Sakariya,Rajasthan Royals,19,0,0,0,0,Unknown
+Lalit Yadav,Delhi Capitals,27,0,0,0,0,Unknown
+Virat Singh,Sunrisers Hyderabad,3,0,0,0,0,Unknown
+Jalaj S Saxena,Punjab Kings,1,0,0,0,0,Unknown
+LI Meriwala,Delhi Capitals,1,0,0,0,0,Unknown
+FA Allen,Punjab Kings,5,0,0,0,0,Unknown
+KW Richardson,Royal Challengers Bangalore,15,0,0,0,0,Unknown
+Anuj Rawat,Rajasthan Royals,24,0,0,0,0,Unknown
+DJ Malan,Punjab Kings,1,0,0,0,0,Unknown
+KS Bharat,Royal Challengers Bangalore,10,0,0,0,0,Unknown
+PWH de Silva,Royal Challengers Bangalore,27,0,0,0,0,Unknown
+VR Iyer,Kolkata Knight Riders,52,0,0,0,0,Unknown
+Umran Malik,Sunrisers Hyderabad,26,0,0,0,0,Unknown
+GD Phillips,Rajasthan Royals,8,0,0,0,0,Unknown
+Akash Singh,Rajasthan Royals,7,0,0,0,0,Unknown
+GHS Garton,Royal Challengers Bangalore,5,0,0,0,0,Unknown
+AK Markram,Punjab Kings,46,0,0,0,0,Unknown
+K Yadav,Rajasthan Royals,3,0,0,0,0,Unknown
+T Shamsi,Rajasthan Royals,5,0,0,0,0,Unknown
+NT Ellis,Punjab Kings,17,0,0,0,0,Unknown
+RV Patel,Delhi Capitals,9,0,0,0,0,Unknown
+TL Seifert,Kolkata Knight Riders,3,0,0,0,0,Unknown
+Anmolpreet Singh,Mumbai Indians,9,0,0,0,0,Unknown
+IC Porel,Punjab Kings,1,0,0,0,0,Unknown
+AU Rashid,Punjab Kings,3,0,0,0,0,Unknown
+TH David,Royal Challengers Bangalore,39,0,0,0,0,Unknown
+DP Conway,Chennai Super Kings,23,0,0,0,0,Unknown
+Tilak Varma,Mumbai Indians,39,0,0,0,0,Unknown
+R Powell,Delhi Capitals,26,0,0,0,0,Unknown
+Akash Deep,Royal Challengers Bangalore,8,0,0,0,0,Unknown
+PBB Rajapaksa,Punjab Kings,13,0,0,0,0,Unknown
+RA Bawa,Punjab Kings,2,0,0,0,0,Unknown
+OF Smith,Punjab Kings,6,0,0,0,0,Unknown
+A Badoni,Lucknow Super Giants,44,0,0,0,0,Unknown
+PVD Chameera,Lucknow Super Giants,13,0,0,0,0,Unknown
+Mohsin Khan,Lucknow Super Giants,24,0,0,0,0,Unknown
+MS Wade,Gujarat Titans,15,0,0,0,0,Unknown
+A Manohar,Gujarat Titans,21,0,0,0,0,Unknown
+R Shepherd,Sunrisers Hyderabad,10,0,0,0,0,Unknown
+D Pretorius,Chennai Super Kings,7,0,0,0,0,Unknown
+Mukesh Choudhary,Chennai Super Kings,14,0,0,0,0,Unknown
+JM Sharma,Punjab Kings,41,0,0,0,0,Unknown
+VG Arora,Punjab Kings,22,0,0,0,0,Unknown
+D Brevis,Mumbai Indians,10,0,0,0,0,Unknown
+B Sai Sudharsan,Gujarat Titans,26,0,0,0,0,Unknown
+DG Nalkande,Gujarat Titans,6,0,0,0,0,Unknown
+M Theekshana,Chennai Super Kings,29,0,0,0,0,Unknown
+Shashank Singh,Sunrisers Hyderabad,25,0,0,0,0,Unknown
+Ramandeep Singh,Mumbai Indians,21,0,0,0,0,Unknown
+HE van der Dussen,Rajasthan Royals,3,0,0,0,0,Unknown
+KR Sen,Rajasthan Royals,12,0,0,0,0,Unknown
+SS Prabhudessai,Royal Challengers Bangalore,11,0,0,0,0,Unknown
+Yash Dayal,Gujarat Titans,29,0,0,0,0,Unknown
+Aman Hakim Khan,Kolkata Knight Riders,12,0,0,0,0,Unknown
+OC McCoy,Rajasthan Royals,8,0,0,0,0,Unknown
+HR Shokeen,Mumbai Indians,13,0,0,0,0,Unknown
+R Dhawan,Punjab Kings,39,0,0,0,0,Unknown
+DJ Mitchell,Rajasthan Royals,15,0,0,0,0,Unknown
+B Indrajith,Kolkata Knight Riders,3,0,0,0,0,Unknown
+Harshit Rana,Kolkata Knight Riders,22,0,0,0,0,Unknown
+K Kartikeya,Mumbai Indians,12,0,0,0,0,Unknown
+Simarjeet Singh,Chennai Super Kings,12,0,0,0,0,Unknown
+SA Abbott,Sunrisers Hyderabad,3,0,0,0,0,Unknown
+Fazalhaq Farooqi,Sunrisers Hyderabad,8,0,0,0,0,Unknown
+R Sai Kishore,Gujarat Titans,11,0,0,0,0,Unknown
+KS Sharma,Lucknow Super Giants,3,0,0,0,0,Unknown
+T Stubbs,Mumbai Indians,19,0,0,0,0,Unknown
+PH Solanki,Chennai Super Kings,2,0,0,0,0,Unknown
+M Pathirana,Chennai Super Kings,20,0,0,0,0,Unknown
+R Sanjay Yadav,Mumbai Indians,1,0,0,0,0,Unknown
+A Tomar,Kolkata Knight Riders,1,0,0,0,0,Unknown
+PN Mankad,Punjab Kings,6,0,0,0,0,Unknown
+RS Hangargekar,Chennai Super Kings,2,0,0,0,0,Unknown
+J Little,Gujarat Titans,11,0,0,0,0,Unknown
+Sikandar Raza,Punjab Kings,9,0,0,0,0,Unknown
+Rahmanullah Gurbaz,Kolkata Knight Riders,13,0,0,0,0,Unknown
+KR Mayers,Lucknow Super Giants,13,0,0,0,0,Unknown
+RR Rossouw,Delhi Capitals,22,0,0,0,0,Unknown
+Mukesh Kumar,Delhi Capitals,21,0,0,0,0,Unknown
+NA Saini,Rajasthan Royals,1,0,0,0,0,Unknown
+HC Brook,Sunrisers Hyderabad,11,0,0,0,0,Unknown
+C Green,Mumbai Indians,29,0,0,0,0,Unknown
+N Wadhera,Mumbai Indians,20,0,0,0,0,Unknown
+Arshad Khan,Mumbai Indians,10,0,0,0,0,Unknown
+MG Bracewell,Royal Challengers Bangalore,5,0,0,0,0,Unknown
+RJW Topley,Royal Challengers Bangalore,5,0,0,0,0,Unknown
+Yash Thakur,Lucknow Super Giants,19,0,0,0,0,Unknown
+Abishek Porel,Delhi Capitals,19,0,0,0,0,Unknown
+Dhruv Jurel,Rajasthan Royals,29,0,0,0,0,Unknown
+Suyash Sharma,Kolkata Knight Riders,14,0,0,0,0,Unknown
+SSB Magala,Chennai Super Kings,2,0,0,0,0,Unknown
+MW Short,Punjab Kings,6,0,0,0,0,Unknown
+Mohit Rathee,Punjab Kings,1,0,0,0,0,Unknown
+WD Parnell,Royal Challengers Bangalore,33,0,0,0,0,Unknown
+YV Dhull,Delhi Capitals,4,0,0,0,0,Unknown
+Vijaykumar Vyshak,Royal Challengers Bangalore,12,0,0,0,0,Unknown
+Yudhvir Singh,Lucknow Super Giants,5,0,0,0,0,Unknown
+Atharva Taide,Punjab Kings,9,0,0,0,0,Unknown
+Harpreet Singh,Punjab Kings,9,0,0,0,0,Unknown
+Arjun Tendulkar,Mumbai Indians,5,0,0,0,0,Unknown
+D Jansen,Mumbai Indians,1,0,0,0,0,Unknown
+Noor Ahmad,Gujarat Titans,24,0,0,0,0,Unknown
+Naveen-ul-Haq,Lucknow Super Giants,18,0,0,0,0,Unknown
+Liton Das,Kolkata Knight Riders,1,0,0,0,0,Unknown
+PD Salt,Delhi Capitals,22,0,0,0,0,Unknown
+Mayank Dagar,Sunrisers Hyderabad,8,0,0,0,0,Unknown
+Abdul Basith,Rajasthan Royals,1,0,0,0,0,Unknown
+D Wiese,Kolkata Knight Riders,18,0,0,0,0,Unknown
+Gurnoor Brar,Punjab Kings,1,0,0,0,0,Unknown
+AJ Hosein,Sunrisers Hyderabad,1,0,0,0,0,Unknown
+Akash Madhwal,Mumbai Indians,13,0,0,0,0,Unknown
+R Goyal,Mumbai Indians,1,0,0,0,0,Unknown
+JE Root,Rajasthan Royals,3,0,0,0,0,Unknown
+Vivrant Sharma,Sunrisers Hyderabad,3,0,0,0,0,Unknown
+MD Shanaka,Gujarat Titans,3,0,0,0,0,Unknown
+Sanvir Singh,Sunrisers Hyderabad,6,0,0,0,0,Unknown
+Nithish Kumar Reddy,Sunrisers Hyderabad,17,0,0,0,0,Unknown
+H Sharma,Royal Challengers Bangalore,2,0,0,0,0,Unknown
+R Ravindra,Chennai Super Kings,11,0,0,0,0,Unknown
+Sameer Rizvi,Chennai Super Kings,9,0,0,0,0,Unknown
+SD Hope,Delhi Capitals,9,0,0,0,0,Unknown
+Sumit Kumar,Delhi Capitals,4,0,0,0,0,Unknown
+MA Starc,Kolkata Knight Riders,41,0,0,0,0,Unknown
+N Burger,Rajasthan Royals,5,0,0,0,0,Unknown
+Azmatullah Omarzai,Gujarat Titans,8,0,0,0,0,Unknown
+SH Johnson,Gujarat Titans,7,0,0,0,0,Unknown
+L Wood,Mumbai Indians,2,0,0,0,0,Unknown
+Naman Dhir,Mumbai Indians,8,0,0,0,0,Unknown
+G Coetzee,Mumbai Indians,10,0,0,0,0,Unknown
+SZ Mulani,Mumbai Indians,2,0,0,0,0,Unknown
+KT Maphaka,Mumbai Indians,2,0,0,0,0,Unknown
+A Raghuvanshi,Kolkata Knight Riders,12,0,0,0,0,Unknown
+MP Yadav,Lucknow Super Giants,4,0,0,0,0,Unknown
+M Siddharth,Lucknow Super Giants,4,0,0,0,0,Unknown
+SB Dubey,Rajasthan Royals,6,0,0,0,0,Unknown
+Ashutosh Sharma,Punjab Kings,12,0,0,0,0,Unknown
+Saurav Chauhan,Royal Challengers Bengaluru,3,0,0,0,0,Unknown
+Kumar Kushagra,Delhi Capitals,4,0,0,0,0,Unknown
+BR Sharath,Gujarat Titans,1,0,0,0,0,Unknown
+KA Maharaj,Rajasthan Royals,2,0,0,0,0,Unknown
+WG Jacks,Royal Challengers Bengaluru,9,0,0,0,0,Unknown
+J Fraser-McGurk,Delhi Capitals,10,0,0,0,0,Unknown
+Tanush Kotian,Rajasthan Royals,1,0,0,0,0,Unknown
+Arshad Khan (2),Lucknow Super Giants,1,0,0,0,0,Unknown
+S Joseph,Lucknow Super Giants,1,0,0,0,0,Unknown
+N Thushara,Mumbai Indians,7,0,0,0,0,Unknown
+LB Williams,Delhi Capitals,2,0,0,0,0,Unknown
+AA Kulkarni,Lucknow Super Giants,2,0,0,0,0,Unknown
+RJ Gleeson,Chennai Super Kings,2,0,0,0,0,Unknown
+MJ Suthar,Gujarat Titans,1,0,0,0,0,Unknown
+A Kamboj,Mumbai Indians,3,0,0,0,0,Unknown
+Gulbadin Naib,Delhi Capitals,2,0,0,0,0,Unknown
+D Ferreira,Rajasthan Royals,2,0,0,0,0,Unknown
+V Viyaskanth,Sunrisers Hyderabad,3,0,0,0,0,Unknown
+V Kaverappa,Punjab Kings,1,0,0,0,0,Unknown
+T Kohler-Cadmore,Rajasthan Royals,3,0,0,0,0,Unknown
+Shivam Singh,Punjab Kings,1,0,0,0,0,Unknown
+Aniket Verma,Sunrisers Hyderabad,2,0,0,0,0,Unknown
+V Puthur,Mumbai Indians,1,0,0,0,0,Unknown
+RD Rickelton,Mumbai Indians,1,0,0,0,0,Unknown
+R Minz,Mumbai Indians,1,0,0,0,0,Unknown
+PVSN Raju,Mumbai Indians,1,0,0,0,0,Unknown
+DS Rathi,Lucknow Super Giants,2,0,0,0,0,Unknown
+Prince Yadav,Lucknow Super Giants,2,0,0,0,0,Unknown
+V Nigam,Delhi Capitals,1,0,0,0,0,Unknown
+Priyansh Arya,Punjab Kings,1,0,0,0,0,Unknown
+Suryansh Shedge,Punjab Kings,1,0,0,0,0,Unknown
+SC Ganguly,Kolkata Knight Riders,59,0,0,0,0,Unknown
+RT Ponting,Kolkata Knight Riders,10,0,0,0,0,Unknown
+DJ Hussey,Kolkata Knight Riders,64,0,0,0,0,Unknown
+Mohammad Hafeez,Kolkata Knight Riders,8,0,0,0,0,Unknown
+LR Shukla,Kolkata Knight Riders,47,0,0,0,0,Unknown
+AB Agarkar,Kolkata Knight Riders,42,0,0,0,0,Unknown
+M Kartik,Kolkata Knight Riders,56,0,0,0,0,Unknown
+R Dravid,Royal Challengers Bangalore,89,0,0,0,0,Unknown
+W Jaffer,Royal Challengers Bangalore,8,0,0,0,0,Unknown
+JH Kallis,Royal Challengers Bangalore,98,0,0,0,0,Unknown
+CL White,Royal Challengers Bangalore,47,0,0,0,0,Unknown
+MV Boucher,Royal Challengers Bangalore,31,0,0,0,0,Unknown
+B Akhil,Royal Challengers Bangalore,15,0,0,0,0,Unknown
+AA Noffke,Royal Challengers Bangalore,1,0,0,0,0,Unknown
+SB Joshi,Royal Challengers Bangalore,4,0,0,0,0,Unknown
+ML Hayden,Chennai Super Kings,32,0,0,0,0,Unknown
+MEK Hussey,Chennai Super Kings,59,0,0,0,0,Unknown
+JDP Oram,Chennai Super Kings,18,0,0,0,0,Unknown
+S Badrinath,Chennai Super Kings,94,0,0,0,0,Unknown
+Joginder Sharma,Chennai Super Kings,16,0,0,0,0,Unknown
+P Amarnath,Chennai Super Kings,6,0,0,0,0,Unknown
+M Muralitharan,Chennai Super Kings,66,0,0,0,0,Unknown
+K Goel,Kings XI Punjab,22,0,0,0,0,Unknown
+JR Hopes,Kings XI Punjab,21,0,0,0,0,Unknown
+KC Sangakkara,Kings XI Punjab,71,0,0,0,0,Unknown
+SM Katich,Kings XI Punjab,11,0,0,0,0,Unknown
+P Dharmani,Kings XI Punjab,1,0,0,0,0,Unknown
+B Lee,Kings XI Punjab,38,0,0,0,0,Unknown
+WA Mota,Kings XI Punjab,12,0,0,0,0,Unknown
+S Sreesanth,Kings XI Punjab,44,0,0,0,0,Unknown
+T Kohli,Rajasthan Royals,4,0,0,0,0,Unknown
+M Kaif,Rajasthan Royals,29,0,0,0,0,Unknown
+DS Lehmann,Rajasthan Royals,2,0,0,0,0,Unknown
+M Rawat,Rajasthan Royals,18,0,0,0,0,Unknown
+D Salunkhe,Rajasthan Royals,6,0,0,0,0,Unknown
+SK Warne,Rajasthan Royals,55,0,0,0,0,Unknown
+SK Trivedi,Rajasthan Royals,76,0,0,0,0,Unknown
+V Sehwag,Delhi Daredevils,104,0,0,0,0,Unknown
+M Manhas,Delhi Daredevils,55,0,0,0,0,Unknown
+DL Vettori,Delhi Daredevils,34,0,0,0,0,Unknown
+MF Maharoof,Delhi Daredevils,20,0,0,0,0,Unknown
+B Geeves,Delhi Daredevils,2,0,0,0,0,Unknown
+GD McGrath,Delhi Daredevils,14,0,0,0,0,Unknown
+L Ronchi,Mumbai Indians,5,0,0,0,0,Unknown
+ST Jayasuriya,Mumbai Indians,30,0,0,0,0,Unknown
+DJ Thornely,Mumbai Indians,6,0,0,0,0,Unknown
+PR Shah,Mumbai Indians,16,0,0,0,0,Unknown
+AM Nayar,Mumbai Indians,60,0,0,0,0,Unknown
+SM Pollock,Mumbai Indians,13,0,0,0,0,Unknown
+MA Khote,Mumbai Indians,4,0,0,0,0,Unknown
+S Chanderpaul,Royal Challengers Bangalore,3,0,0,0,0,Unknown
+LRPL Taylor,Royal Challengers Bangalore,55,0,0,0,0,Unknown
+AC Gilchrist,Deccan Chargers,80,0,0,0,0,Unknown
+Y Venugopal Rao,Deccan Chargers,65,0,0,0,0,Unknown
+VVS Laxman,Deccan Chargers,20,0,0,0,0,Unknown
+A Symonds,Deccan Chargers,39,0,0,0,0,Unknown
+SB Styris,Deccan Chargers,12,0,0,0,0,Unknown
+AS Yadav,Deccan Chargers,8,0,0,0,0,Unknown
+SB Bangar,Deccan Chargers,12,0,0,0,0,Unknown
+WPUJC Vaas,Deccan Chargers,13,0,0,0,0,Unknown
+RP Singh,Deccan Chargers,82,0,0,0,0,Unknown
+PP Ojha,Deccan Chargers,92,0,0,0,0,Unknown
+DPMD Jayawardene,Kings XI Punjab,80,0,0,0,0,Unknown
+S Sohal,Kings XI Punjab,22,0,0,0,0,Unknown
+Kamran Akmal,Rajasthan Royals,6,0,0,0,0,Unknown
+Pankaj Singh,Rajasthan Royals,17,0,0,0,0,Unknown
+Shahid Afridi,Deccan Chargers,10,0,0,0,0,Unknown
+Shoaib Malik,Delhi Daredevils,7,0,0,0,0,Unknown
+Mohammad Asif,Delhi Daredevils,8,0,0,0,0,Unknown
+VY Mahesh,Delhi Daredevils,17,0,0,0,0,Unknown
+VS Yeligati,Mumbai Indians,2,0,0,0,0,Unknown
+D Kalyankrishna,Deccan Chargers,3,0,0,0,0,Unknown
+GC Smith,Rajasthan Royals,29,0,0,0,0,Unknown
+RR Sarwan,Kings XI Punjab,4,0,0,0,0,Unknown
+VRV Singh,Kings XI Punjab,19,0,0,0,0,Unknown
+Sohail Tanvir,Rajasthan Royals,11,0,0,0,0,Unknown
+A Kumble,Royal Challengers Bangalore,42,0,0,0,0,Unknown
+DNT Zoysa,Deccan Chargers,3,0,0,0,0,Unknown
+SD Chitnis,Mumbai Indians,11,0,0,0,0,Unknown
+TM Srivastava,Kings XI Punjab,7,0,0,0,0,Unknown
+JA Morkel,Chennai Super Kings,90,0,0,0,0,Unknown
+B Chipli,Royal Challengers Bangalore,23,0,0,0,0,Unknown
+DB Das,Kolkata Knight Riders,31,0,0,0,0,Unknown
+CRD Fernando,Mumbai Indians,10,0,0,0,0,Unknown
+HH Gibbs,Deccan Chargers,36,0,0,0,0,Unknown
+Gagandeep Singh,Kings XI Punjab,4,0,0,0,0,Unknown
+Salman Butt,Kolkata Knight Riders,7,0,0,0,0,Unknown
+BJ Hodge,Kolkata Knight Riders,66,0,0,0,0,Unknown
+Umar Gul,Kolkata Knight Riders,6,0,0,0,0,Unknown
+SA Asnodkar,Rajasthan Royals,20,0,0,0,0,Unknown
+SP Fleming,Chennai Super Kings,10,0,0,0,0,Unknown
+S Vidyut,Chennai Super Kings,9,0,0,0,0,Unknown
+M Ntini,Chennai Super Kings,9,0,0,0,0,Unknown
+LPC Silva,Deccan Chargers,3,0,0,0,0,Unknown
+DB Ravi Teja,Deccan Chargers,32,0,0,0,0,Unknown
+DP Vijaykumar,Deccan Chargers,9,0,0,0,0,Unknown
+Misbah-ul-Haq,Royal Challengers Bangalore,8,0,0,0,0,Unknown
+YV Takawale,Mumbai Indians,16,0,0,0,0,Unknown
+RR Raje,Mumbai Indians,10,0,0,0,0,Unknown
+U Kaul,Kings XI Punjab,5,0,0,0,0,Unknown
+DT Patil,Royal Challengers Bangalore,2,0,0,0,0,Unknown
+S Anirudha,Chennai Super Kings,20,0,0,0,0,Unknown
+CK Kapugedera,Chennai Super Kings,5,0,0,0,0,Unknown
+L Balaji,Chennai Super Kings,73,0,0,0,0,Unknown
+A Chopra,Kolkata Knight Riders,7,0,0,0,0,Unknown
+T Taibu,Kolkata Knight Riders,3,0,0,0,0,Unknown
+J Arunkumar,Royal Challengers Bangalore,3,0,0,0,0,Unknown
+NK Patel,Rajasthan Royals,9,0,0,0,0,Unknown
+SR Tendulkar,Mumbai Indians,78,0,0,0,0,Unknown
+TM Dilshan,Delhi Daredevils,51,0,0,0,0,Unknown
+AD Mascarenhas,Rajasthan Royals,13,0,0,0,0,Unknown
+LA Pomersbach,Kings XI Punjab,17,0,0,0,0,Unknown
+Shoaib Akhtar,Kolkata Knight Riders,3,0,0,0,0,Unknown
+RR Powar,Kings XI Punjab,27,0,0,0,0,Unknown
+Younis Khan,Rajasthan Royals,1,0,0,0,0,Unknown
+PM Sarvesh Kumar,Deccan Chargers,2,0,0,0,0,Unknown
+RV Pawar,Mumbai Indians,1,0,0,0,0,Unknown
+Abdur Razzak,Royal Challengers Bangalore,1,0,0,0,0,Unknown
+H Das,Deccan Chargers,1,0,0,0,0,Unknown
+A Nel,Mumbai Indians,1,0,0,0,0,Unknown
+A Mukund,Chennai Super Kings,3,0,0,0,0,Unknown
+BAW Mendis,Kolkata Knight Riders,10,0,0,0,0,Unknown
+A Flintoff,Chennai Super Kings,3,0,0,0,0,Unknown
+T Thushara,Chennai Super Kings,6,0,0,0,0,Unknown
+T Henderson,Rajasthan Royals,2,0,0,0,0,Unknown
+Kamran Khan,Rajasthan Royals,9,0,0,0,0,Unknown
+JD Ryder,Royal Challengers Bangalore,29,0,0,0,0,Unknown
+KP Pietersen,Royal Challengers Bangalore,36,0,0,0,0,Unknown
+DP Nannes,Delhi Daredevils,29,0,0,0,0,Unknown
+AM Salvi,Delhi Daredevils,7,0,0,0,0,Unknown
+RS Bopara,Kings XI Punjab,24,0,0,0,0,Unknown
+VS Malik,Kings XI Punjab,13,0,0,0,0,Unknown
+YA Abdulla,Kings XI Punjab,11,0,0,0,0,Unknown
+Harmeet Singh,Deccan Chargers,28,0,0,0,0,Unknown
+FH Edwards,Deccan Chargers,6,0,0,0,0,Unknown
+R Bishnoi,Royal Challengers Bangalore,3,0,0,0,0,Unknown
+Yashpal Singh,Kolkata Knight Riders,8,0,0,0,0,Unknown
+PC Valthaty,Rajasthan Royals,23,0,0,0,0,Unknown
+RJ Quiney,Rajasthan Royals,7,0,0,0,0,Unknown
+AS Raut,Rajasthan Royals,22,0,0,0,0,Unknown
+RR Bose,Kings XI Punjab,1,0,0,0,0,Unknown
+KP Appanna,Royal Challengers Bangalore,13,0,0,0,0,Unknown
+AA Bilakhia,Deccan Chargers,7,0,0,0,0,Unknown
+Shoaib Ahmed,Deccan Chargers,8,0,0,0,0,Unknown
+AN Ghosh,Kolkata Knight Riders,2,0,0,0,0,Unknown
+MN van Wyk,Kolkata Knight Riders,5,0,0,0,0,Unknown
+RE van der Merwe,Royal Challengers Bangalore,21,0,0,0,0,Unknown
+TL Suman,Deccan Chargers,43,0,0,0,0,Unknown
+S Tyagi,Chennai Super Kings,14,0,0,0,0,Unknown
+GR Napier,Mumbai Indians,1,0,0,0,0,Unknown
+LA Carseldine,Rajasthan Royals,5,0,0,0,0,Unknown
+SM Harwood,Rajasthan Royals,3,0,0,0,0,Unknown
+D du Preez,Royal Challengers Bangalore,2,0,0,0,0,Unknown
+RJ Harris,Deccan Chargers,37,0,0,0,0,Unknown
+A Singh,Rajasthan Royals,23,0,0,0,0,Unknown
+M Morkel,Rajasthan Royals,70,0,0,0,0,Unknown
+GJ Bailey,Chennai Super Kings,40,0,0,0,0,Unknown
+C Nanda,Mumbai Indians,3,0,0,0,0,Unknown
+A Mithun,Royal Challengers Bangalore,16,0,0,0,0,Unknown
+SS Sarkar,Kolkata Knight Riders,2,0,0,0,0,Unknown
+J Botha,Rajasthan Royals,34,0,0,0,0,Unknown
+Mashrafe Mortaza,Kolkata Knight Riders,1,0,0,0,0,Unknown
+SS Shaikh,Kolkata Knight Riders,2,0,0,0,0,Unknown
+Jaskaran Singh,Deccan Chargers,8,0,0,0,0,Unknown
+AB McDonald,Delhi Daredevils,10,0,0,0,0,Unknown
+Y Nagar,Delhi Daredevils,26,0,0,0,0,Unknown
+CK Langeveldt,Kolkata Knight Riders,7,0,0,0,0,Unknown
+Mohammad Ashraful,Mumbai Indians,1,0,0,0,0,Unknown
+RA Shaikh,Mumbai Indians,1,0,0,0,0,Unknown
+Anirudh Singh,Deccan Chargers,5,0,0,0,0,Unknown
+CA Pujara,Kolkata Knight Riders,30,0,0,0,0,Unknown
+OA Shah,Kolkata Knight Riders,23,0,0,0,0,Unknown
+R Sathish,Mumbai Indians,34,0,0,0,0,Unknown
+R McLaren,Mumbai Indians,18,0,0,0,0,Unknown
+AG Murtaza,Mumbai Indians,12,0,0,0,0,Unknown
+AA Jhunjhunwala,Rajasthan Royals,21,0,0,0,0,Unknown
+P Dogra,Rajasthan Royals,13,0,0,0,0,Unknown
+A Uniyal,Rajasthan Royals,2,0,0,0,0,Unknown
+SW Tait,Rajasthan Royals,21,0,0,0,0,Unknown
+MS Bisla,Kings XI Punjab,39,0,0,0,0,Unknown
+RS Gavaskar,Kolkata Knight Riders,2,0,0,0,0,Unknown
+JM Kemp,Chennai Super Kings,5,0,0,0,0,Unknown
+S Ladda,Delhi Daredevils,9,0,0,0,0,Unknown
+SE Bond,Kolkata Knight Riders,8,0,0,0,0,Unknown
+MJ Lumb,Rajasthan Royals,12,0,0,0,0,Unknown
+DR Martyn,Rajasthan Royals,1,0,0,0,0,Unknown
+S Narwal,Rajasthan Royals,7,0,0,0,0,Unknown
+AB Barath,Kings XI Punjab,3,0,0,0,0,Unknown
+SJ Srivastava,Kings XI Punjab,14,0,0,0,0,Unknown
+FY Fazal,Rajasthan Royals,12,0,0,0,0,Unknown
+AC Voges,Rajasthan Royals,9,0,0,0,0,Unknown
+MD Mishra,Deccan Chargers,18,0,0,0,0,Unknown
+R Sharma,Deccan Chargers,44,0,0,0,0,Unknown
+J Theron,Kings XI Punjab,10,0,0,0,0,Unknown
+NLTC Perera,Chennai Super Kings,37,0,0,0,0,Unknown
+KB Arun Karthik,Chennai Super Kings,17,0,0,0,0,Unknown
+KAJ Roach,Deccan Chargers,2,0,0,0,0,Unknown
+PD Collingwood,Delhi Daredevils,8,0,0,0,0,Unknown
+C Ganapathy,Chennai Super Kings,1,0,0,0,0,Unknown
+MB Parmar,Kolkata Knight Riders,1,0,0,0,0,Unknown
+DE Bollinger,Chennai Super Kings,27,0,0,0,0,Unknown
+SB Wagh,Rajasthan Royals,8,0,0,0,0,Unknown
+AP Dole,Rajasthan Royals,3,0,0,0,0,Unknown
+AN Ahmed,Mumbai Indians,17,0,0,0,0,Unknown
+RS Sodhi,Kings XI Punjab,3,0,0,0,0,Unknown
+L Ablish,Kings XI Punjab,3,0,0,0,0,Unknown
+B Sumanth,Deccan Chargers,5,0,0,0,0,Unknown
+S Sriram,Royal Challengers Bangalore,2,0,0,0,0,Unknown
+C Madan,Mumbai Indians,1,0,0,0,0,Unknown
+AG Paunikar,Rajasthan Royals,5,0,0,0,0,Unknown
+ND Doshi,Royal Challengers Bangalore,4,0,0,0,0,Unknown
+S Randiv,Chennai Super Kings,8,0,0,0,0,Unknown
+AL Menaria,Rajasthan Royals,29,0,0,0,0,Unknown
+RV Gomez,Kochi Tuskers Kerala,13,0,0,0,0,Unknown
+AUK Pathan,Royal Challengers Bangalore,8,0,0,0,0,Unknown
+UBT Chand,Delhi Daredevils,21,0,0,0,0,Unknown
+DJ Jacobs,Mumbai Indians,7,0,0,0,0,Unknown
+JEC Franklin,Mumbai Indians,20,0,0,0,0,Unknown
+Sunny Singh,Kings XI Punjab,6,0,0,0,0,Unknown
+NJ Rimmington,Kings XI Punjab,1,0,0,0,0,Unknown
+BA Bhatt,Kings XI Punjab,17,0,0,0,0,Unknown
+AC Thomas,Pune Warriors,15,0,0,0,0,Unknown
+RN ten Doeschate,Kolkata Knight Riders,29,0,0,0,0,Unknown
+JJ van der Wath,Royal Challengers Bangalore,3,0,0,0,0,Unknown
+R Ninan,Royal Challengers Bangalore,2,0,0,0,0,Unknown
+TD Paine,Pune Warriors,2,0,0,0,0,Unknown
+DH Yagnik,Rajasthan Royals,25,0,0,0,0,Unknown
+BJ Haddin,Kolkata Knight Riders,1,0,0,0,0,Unknown
+J Syed Mohammad,Royal Challengers Bangalore,11,0,0,0,0,Unknown
+NL McCullum,Pune Warriors,2,0,0,0,0,Unknown
+JE Taylor,Pune Warriors,5,0,0,0,0,Unknown
+KMDN Kulasekara,Chennai Super Kings,5,0,0,0,0,Unknown
+TR Birt,Delhi Daredevils,5,0,0,0,0,Unknown
+M Klinger,Kochi Tuskers Kerala,4,0,0,0,0,Unknown
+P Parameswaran,Kochi Tuskers Kerala,8,0,0,0,0,Unknown
+AC Blizzard,Mumbai Indians,7,0,0,0,0,Unknown
+I Malhotra,Deccan Chargers,1,0,0,0,0,Unknown
+CJ Ferguson,Pune Warriors,9,0,0,0,0,Unknown
+AA Kazi,Royal Challengers Bangalore,1,0,0,0,0,Unknown
+Anand Rajan,Deccan Chargers,8,0,0,0,0,Unknown
+P Prasanth,Kochi Tuskers Kerala,1,0,0,0,0,Unknown
+Y Gnaneswara Rao,Kochi Tuskers Kerala,2,0,0,0,0,Unknown
+AA Chavan,Rajasthan Royals,13,0,0,0,0,Unknown
+S Rana,Pune Warriors,11,0,0,0,0,Unknown
+KH Devdhar,Deccan Chargers,1,0,0,0,0,Unknown
+SS Mundhe,Pune Warriors,1,0,0,0,0,Unknown
+RW Price,Mumbai Indians,1,0,0,0,0,Unknown
+RE Levi,Mumbai Indians,6,0,0,0,0,Unknown
+M de Lange,Kolkata Knight Riders,5,0,0,0,0,Unknown
+KK Cooper,Rajasthan Royals,25,0,0,0,0,Unknown
+DAJ Bracewell,Delhi Daredevils,1,0,0,0,0,Unknown
+DJ Harris,Deccan Chargers,4,0,0,0,0,Unknown
+TP Sudhindra,Deccan Chargers,3,0,0,0,0,Unknown
+GB Hogg,Rajasthan Royals,21,0,0,0,0,Unknown
+RR Bhatkal,Royal Challengers Bangalore,1,0,0,0,0,Unknown
+P Awana,Kings XI Punjab,33,0,0,0,0,Unknown
+V Pratap Singh,Deccan Chargers,9,0,0,0,0,Unknown
+CJ McKay,Mumbai Indians,2,0,0,0,0,Unknown
+T Mishra,Deccan Chargers,1,0,0,0,0,Unknown
+A Ashish Reddy,Deccan Chargers,31,0,0,0,0,Unknown
+N Saini,Kings XI Punjab,10,0,0,0,0,Unknown
+Azhar Mahmood,Kings XI Punjab,23,0,0,0,0,Unknown
+A Chandila,Rajasthan Royals,12,0,0,0,0,Unknown
+LJ Wright,Pune Warriors,7,0,0,0,0,Unknown
+RJ Peterson,Mumbai Indians,5,0,0,0,0,Unknown
+R Shukla,Mumbai Indians,7,0,0,0,0,Unknown
+BB Samantray,Deccan Chargers,9,0,0,0,0,Unknown
+MJ Clarke,Pune Warriors,6,0,0,0,0,Unknown
+BW Hilfenhaus,Chennai Super Kings,17,0,0,0,0,Unknown
+PA Reddy,Deccan Chargers,12,0,0,0,0,Unknown
+AP Majumdar,Pune Warriors,4,0,0,0,0,Unknown
+K Upadhyay,Pune Warriors,3,0,0,0,0,Unknown
+Sunny Gupta,Delhi Daredevils,1,0,0,0,0,Unknown
+MC Juneja,Delhi Daredevils,7,0,0,0,0,Unknown
+MDKJ Perera,Rajasthan Royals,2,0,0,0,0,Unknown
+BMAJ Mendis,Delhi Daredevils,3,0,0,0,0,Unknown
+R Rampaul,Royal Challengers Bangalore,12,0,0,0,0,Unknown
+SMSM Senanayake,Kolkata Knight Riders,8,0,0,0,0,Unknown
+BJ Rohrer,Delhi Daredevils,8,0,0,0,0,Unknown
+IC Pandey,Pune Warriors,25,0,0,0,0,Unknown
+CM Gautam,Delhi Daredevils,13,0,0,0,0,Unknown
+X Thalaivan Sargunam,Sunrisers Hyderabad,1,0,0,0,0,Unknown
+DJG Sammy,Sunrisers Hyderabad,22,0,0,0,0,Unknown
+P Suyal,Mumbai Indians,5,0,0,0,0,Unknown
+UA Birla,Pune Warriors,2,0,0,0,0,Unknown
+PV Tambe,Rajasthan Royals,33,0,0,0,0,Unknown
+Parvez Rasool,Pune Warriors,11,0,0,0,0,Unknown
+MG Neser,Kings XI Punjab,1,0,0,0,0,Unknown
+NJ Maddinson,Royal Challengers Bangalore,3,0,0,0,0,Unknown
+BR Dunk,Mumbai Indians,3,0,0,0,0,Unknown
+Shivam Sharma,Kings XI Punjab,5,0,0,0,0,Unknown
+VH Zol,Royal Challengers Bangalore,3,0,0,0,0,Unknown
+K Santokie,Mumbai Indians,2,0,0,0,0,Unknown
+BE Hendricks,Kings XI Punjab,7,0,0,0,0,Unknown
+JW Hastings,Chennai Super Kings,3,0,0,0,0,Unknown
+Karanveer Singh,Kings XI Punjab,9,0,0,0,0,Unknown
+DJ Muthuswami,Delhi Daredevils,6,0,0,0,0,Unknown
+RG More,Chennai Super Kings,2,0,0,0,0,Unknown
+GS Sandhu,Delhi Daredevils,3,0,0,0,0,Unknown
+P Sahu,Kings XI Punjab,5,0,0,0,0,Unknown
+KJ Abbott,Kings XI Punjab,5,0,0,0,0,Unknown
+PSP Handscomb,Rising Pune Supergiants,2,0,0,0,0,Unknown
+SM Boland,Rising Pune Supergiants,2,0,0,0,0,Unknown
+UT Khawaja,Rising Pune Supergiants,6,0,0,0,0,Unknown
+F Behardien,Kings XI Punjab,3,0,0,0,0,Unknown
+ER Dwivedi,Gujarat Lions,4,0,0,0,0,Unknown

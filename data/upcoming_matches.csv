@@ -1,0 +1,91 @@
+match_id,home_team,away_team,venue,date
+1,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",2025-04-02
+2,Mumbai Indians,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",2025-04-03
+3,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",2025-04-04
+4,Mumbai Indians,Delhi Capitals,"Wankhede Stadium, Mumbai",2025-04-05
+5,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai",2025-04-06
+6,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",2025-04-07
+7,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",2025-04-08
+8,Mumbai Indians,Gujarat Titans,"Wankhede Stadium, Mumbai",2025-04-09
+9,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",2025-04-10
+10,Chennai Super Kings,Mumbai Indians,"M. A. Chidambaram Stadium, Chennai",2025-04-11
+11,Chennai Super Kings,Royal Challengers Bangalore,"M. A. Chidambaram Stadium, Chennai",2025-04-12
+12,Chennai Super Kings,Kolkata Knight Riders,"M. A. Chidambaram Stadium, Chennai",2025-04-13
+13,Chennai Super Kings,Delhi Capitals,"M. A. Chidambaram Stadium, Chennai",2025-04-14
+14,Chennai Super Kings,Punjab Kings,"M. A. Chidambaram Stadium, Chennai",2025-04-15
+15,Chennai Super Kings,Rajasthan Royals,"M. A. Chidambaram Stadium, Chennai",2025-04-16
+16,Chennai Super Kings,Sunrisers Hyderabad,"M. A. Chidambaram Stadium, Chennai",2025-04-17
+17,Chennai Super Kings,Gujarat Titans,"M. A. Chidambaram Stadium, Chennai",2025-04-18
+18,Chennai Super Kings,Lucknow Super Giants,"M. A. Chidambaram Stadium, Chennai",2025-04-19
+19,Royal Challengers Bangalore,Mumbai Indians,"M. Chinnaswamy Stadium, Bengaluru",2025-04-20
+20,Royal Challengers Bangalore,Chennai Super Kings,"M. Chinnaswamy Stadium, Bengaluru",2025-04-21
+21,Royal Challengers Bangalore,Kolkata Knight Riders,"M. Chinnaswamy Stadium, Bengaluru",2025-04-22
+22,Royal Challengers Bangalore,Delhi Capitals,"M. Chinnaswamy Stadium, Bengaluru",2025-04-23
+23,Royal Challengers Bangalore,Punjab Kings,"M. Chinnaswamy Stadium, Bengaluru",2025-04-24
+24,Royal Challengers Bangalore,Rajasthan Royals,"M. Chinnaswamy Stadium, Bengaluru",2025-04-25
+25,Royal Challengers Bangalore,Sunrisers Hyderabad,"M. Chinnaswamy Stadium, Bengaluru",2025-04-26
+26,Royal Challengers Bangalore,Gujarat Titans,"M. Chinnaswamy Stadium, Bengaluru",2025-04-27
+27,Royal Challengers Bangalore,Lucknow Super Giants,"M. Chinnaswamy Stadium, Bengaluru",2025-04-28
+28,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",2025-04-29
+29,Kolkata Knight Riders,Chennai Super Kings,"Eden Gardens, Kolkata",2025-04-30
+30,Kolkata Knight Riders,Royal Challengers Bangalore,"Eden Gardens, Kolkata",2025-04-01
+31,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",2025-04-02
+32,Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata",2025-04-03
+33,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",2025-04-04
+34,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",2025-04-05
+35,Kolkata Knight Riders,Gujarat Titans,"Eden Gardens, Kolkata",2025-04-06
+36,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",2025-04-07
+37,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",2025-04-08
+38,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",2025-04-09
+39,Delhi Capitals,Royal Challengers Bangalore,"Arun Jaitley Stadium, Delhi",2025-04-10
+40,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",2025-04-11
+41,Delhi Capitals,Punjab Kings,"Arun Jaitley Stadium, Delhi",2025-05-12
+42,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",2025-05-13
+43,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",2025-05-14
+44,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",2025-05-15
+45,Delhi Capitals,Lucknow Super Giants,"Arun Jaitley Stadium, Delhi",2025-05-16
+46,Punjab Kings,Mumbai Indians,"IS Bindra Stadium, Mohali",2025-05-17
+47,Punjab Kings,Chennai Super Kings,"IS Bindra Stadium, Mohali",2025-05-18
+48,Punjab Kings,Royal Challengers Bangalore,"IS Bindra Stadium, Mohali",2025-05-19
+49,Punjab Kings,Kolkata Knight Riders,"IS Bindra Stadium, Mohali",2025-05-20
+50,Punjab Kings,Delhi Capitals,"IS Bindra Stadium, Mohali",2025-05-21
+51,Punjab Kings,Rajasthan Royals,"IS Bindra Stadium, Mohali",2025-05-22
+52,Punjab Kings,Sunrisers Hyderabad,"IS Bindra Stadium, Mohali",2025-05-23
+53,Punjab Kings,Gujarat Titans,"IS Bindra Stadium, Mohali",2025-05-24
+54,Punjab Kings,Lucknow Super Giants,"IS Bindra Stadium, Mohali",2025-05-25
+55,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",2025-05-26
+56,Rajasthan Royals,Chennai Super Kings,"Sawai Mansingh Stadium, Jaipur",2025-05-27
+57,Rajasthan Royals,Royal Challengers Bangalore,"Sawai Mansingh Stadium, Jaipur",2025-05-28
+58,Rajasthan Royals,Kolkata Knight Riders,"Sawai Mansingh Stadium, Jaipur",2025-05-29
+59,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",2025-05-30
+60,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",2025-05-01
+61,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",2025-05-02
+62,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",2025-05-03
+63,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",2025-05-04
+64,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi Int'l Cricket Stadium, Hyderabad",2025-05-05
+65,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi Int'l Cricket Stadium, Hyderabad",2025-05-06
+66,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi Int'l Cricket Stadium, Hyderabad",2025-05-07
+67,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi Int'l Cricket Stadium, Hyderabad",2025-05-08
+68,Sunrisers Hyderabad,Delhi Capitals,"Rajiv Gandhi Int'l Cricket Stadium, Hyderabad",2025-05-09
+69,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi Int'l Cricket Stadium, Hyderabad",2025-05-10
+70,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi Int'l Cricket Stadium, Hyderabad",2025-05-11
+71,Sunrisers Hyderabad,Gujarat Titans,"Rajiv Gandhi Int'l Cricket Stadium, Hyderabad",2025-05-12
+72,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi Int'l Cricket Stadium, Hyderabad",2025-05-13
+73,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",2025-05-14
+74,Gujarat Titans,Chennai Super Kings,"Narendra Modi Stadium, Ahmedabad",2025-05-15
+75,Gujarat Titans,Royal Challengers Bangalore,"Narendra Modi Stadium, Ahmedabad",2025-05-16
+76,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",2025-05-17
+77,Gujarat Titans,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",2025-05-18
+78,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",2025-05-19
+79,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",2025-05-20
+80,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",2025-05-21
+81,Gujarat Titans,Lucknow Super Giants,"Narendra Modi Stadium, Ahmedabad",2025-05-22
+82,Lucknow Super Giants,Mumbai Indians,"BRSABV Ekana Cricket Stadium, Lucknow",2025-05-23
+83,Lucknow Super Giants,Chennai Super Kings,"BRSABV Ekana Cricket Stadium, Lucknow",2025-05-24
+84,Lucknow Super Giants,Royal Challengers Bangalore,"BRSABV Ekana Cricket Stadium, Lucknow",2025-05-25
+85,Lucknow Super Giants,Kolkata Knight Riders,"BRSABV Ekana Cricket Stadium, Lucknow",2025-05-26
+86,Lucknow Super Giants,Delhi Capitals,"BRSABV Ekana Cricket Stadium, Lucknow",2025-05-27
+87,Lucknow Super Giants,Punjab Kings,"BRSABV Ekana Cricket Stadium, Lucknow",2025-05-28
+88,Lucknow Super Giants,Rajasthan Royals,"BRSABV Ekana Cricket Stadium, Lucknow",2025-05-29
+89,Lucknow Super Giants,Sunrisers Hyderabad,"BRSABV Ekana Cricket Stadium, Lucknow",2025-05-30
+90,Lucknow Super Giants,Gujarat Titans,"BRSABV Ekana Cricket Stadium, Lucknow",2025-05-01

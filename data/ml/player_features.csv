@@ -1,0 +1,747 @@
+player_name,team,role,matches,innings,runs,batting_average,strike_rate,wickets,economy_rate,bowling_average,batting_consistency,batting_impact,bowling_impact,all_rounder_rating,estimated_fantasy_points,cost
+CH Gayle,Royal Challengers Bangalore,AR,141.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.107582137717383
+Mandeep Singh,Royal Challengers Bangalore,AR,111.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.503840091373743
+TM Head,Royal Challengers Bangalore,Unknown,27.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.898723416564929
+KM Jadhav,Royal Challengers Bangalore,Unknown,95.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.398053765781047
+SR Watson,Royal Challengers Bangalore,Unknown,145.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.605118559664346
+Sachin Baby,Royal Challengers Bangalore,Unknown,19.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.569161989647709
+STR Binny,Royal Challengers Bangalore,Unknown,95.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.807388017879147
+S Aravind,Royal Challengers Bangalore,Unknown,38.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.403197788228724
+TS Mills,Royal Challengers Bangalore,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.835796474612048
+YS Chahal,Royal Challengers Bangalore,Unknown,161.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.450217446615182
+A Choudhary,Royal Challengers Bangalore,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.13976637139948
+DA Warner,Sunrisers Hyderabad,Unknown,184.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.837721457704825
+S Dhawan,Sunrisers Hyderabad,Unknown,222.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.422582064177982
+MC Henriques,Sunrisers Hyderabad,Unknown,62.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.161903521872745
+Yuvraj Singh,Sunrisers Hyderabad,Unknown,132.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.566723120319065
+DJ Hooda,Sunrisers Hyderabad,Unknown,119.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.99551686056491
+BCJ Cutting,Sunrisers Hyderabad,Unknown,21.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.17584623765649
+NV Ojha,Sunrisers Hyderabad,Unknown,113.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.294549630178
+Bipul Sharma,Sunrisers Hyderabad,Unknown,33.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.565712389180126
+B Kumar,Sunrisers Hyderabad,Unknown,176.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.651365027528154
+A Nehra,Sunrisers Hyderabad,Unknown,88.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.722168490041415
+Rashid Khan,Sunrisers Hyderabad,Unknown,122.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.766680172840523
+PA Patel,Mumbai Indians,Unknown,139.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.469780584685852
+JC Buttler,Mumbai Indians,Unknown,108.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.620023276844579
+RG Sharma,Mumbai Indians,Unknown,258.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.203622776028032
+N Rana,Mumbai Indians,Unknown,109.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.932978478677516
+AT Rayudu,Mumbai Indians,Unknown,204.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.785580706903037
+KH Pandya,Mumbai Indians,Unknown,128.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.05822527550814
+KA Pollard,Mumbai Indians,Unknown,189.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.328081377926267
+HH Pandya,Mumbai Indians,Unknown,137.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.010614675559514
+TG Southee,Mumbai Indians,Unknown,54.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.009059233634506
+MJ McClenaghan,Mumbai Indians,Unknown,56.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.482327525829533
+JJ Bumrah,Mumbai Indians,Unknown,133.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.843616269209816
+AM Rahane,Rising Pune Supergiant,Unknown,187.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.242031495612366
+MA Agarwal,Rising Pune Supergiant,Unknown,126.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.059866193035946
+SPD Smith,Rising Pune Supergiant,Unknown,103.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.61957696878489
+BA Stokes,Rising Pune Supergiant,Unknown,45.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.843668663190574
+MS Dhoni,Rising Pune Supergiant,Unknown,264.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.827891095484048
+MK Tiwary,Rising Pune Supergiant,Unknown,98.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.064107489332958
+R Bhatia,Rising Pune Supergiant,Unknown,95.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.991087372366321
+DL Chahar,Rising Pune Supergiant,Unknown,82.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.48818660422466
+A Zampa,Rising Pune Supergiant,Unknown,22.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.522587513697419
+AB Dinda,Rising Pune Supergiant,Unknown,78.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.28927382471427
+Imran Tahir,Rising Pune Supergiant,Unknown,59.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.194431054189318
+JJ Roy,Gujarat Lions,Unknown,21.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.59957893208156
+BB McCullum,Gujarat Lions,Unknown,109.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.863845905922714
+SK Raina,Gujarat Lions,Unknown,204.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.41411010793043
+AJ Finch,Gujarat Lions,Unknown,92.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.086663997104516
+KD Karthik,Gujarat Lions,Unknown,257.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.274954826587683
+DR Smith,Gujarat Lions,Unknown,91.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.9233256526842
+MS Gony,Gujarat Lions,Unknown,44.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.807789502226214
+P Kumar,Gujarat Lions,Unknown,119.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.225769925736827
+SB Jakati,Gujarat Lions,Unknown,59.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.629300061475456
+DS Kulkarni,Gujarat Lions,Unknown,92.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.247995129930802
+S Kaushik,Gujarat Lions,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.689333961202507
+G Gambhir,Kolkata Knight Riders,Unknown,154.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.714388531920466
+CA Lynn,Kolkata Knight Riders,Unknown,42.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.584444845538467
+RV Uthappa,Kolkata Knight Riders,Unknown,205.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.614410217788224
+MK Pandey,Kolkata Knight Riders,Unknown,171.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.064936557223994
+YK Pathan,Kolkata Knight Riders,Unknown,174.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.48013789026783
+SA Yadav,Kolkata Knight Riders,Unknown,151.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.676081927897844
+CR Woakes,Kolkata Knight Riders,Unknown,21.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.25769987904985
+PP Chawla,Kolkata Knight Riders,Unknown,192.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.278556612396253
+Kuldeep Yadav,Kolkata Knight Riders,Unknown,85.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.417497088137672
+SP Narine,Kolkata Knight Riders,Unknown,177.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.932150891061609
+TA Boult,Kolkata Knight Riders,Unknown,104.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.068689247794858
+HM Amla,Kings XI Punjab,Unknown,16.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.730419010534835
+M Vohra,Kings XI Punjab,Unknown,56.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.292108730057578
+WP Saha,Kings XI Punjab,Unknown,169.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.370035255004876
+AR Patel,Kings XI Punjab,Unknown,151.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.38317307344612
+GJ Maxwell,Kings XI Punjab,Unknown,135.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.138721559287191
+DA Miller,Kings XI Punjab,Unknown,132.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.498708433071194
+MP Stoinis,Kings XI Punjab,Unknown,97.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.731599006307906
+Swapnil Singh,Kings XI Punjab,Unknown,14.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.899220596467023
+MM Sharma,Kings XI Punjab,Unknown,113.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.76213877407272
+Sandeep Sharma,Kings XI Punjab,Unknown,128.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.166577402678627
+T Natarajan,Kings XI Punjab,Unknown,61.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.202098787394553
+DT Christian,Rising Pune Supergiant,Unknown,49.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.392552436509527
+RD Chahar,Rising Pune Supergiant,Unknown,78.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.020157597613345
+Vishnu Vinod,Royal Challengers Bangalore,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.226981560008923
+P Negi,Royal Challengers Bangalore,Unknown,50.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.430540844476466
+Iqbal Abdulla,Royal Challengers Bangalore,Unknown,49.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.883355272667966
+B Stanlake,Royal Challengers Bangalore,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.093202483142337
+AP Tare,Delhi Daredevils,Unknown,35.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.897056548374795
+SW Billings,Delhi Daredevils,Unknown,30.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.19468679539455
+KK Nair,Delhi Daredevils,Unknown,76.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.20370160912296
+SV Samson,Delhi Daredevils,Unknown,169.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.09031771904376
+RR Pant,Delhi Daredevils,Unknown,113.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.399252374285629
+CH Morris,Delhi Daredevils,Unknown,81.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.871553874096621
+CR Brathwaite,Delhi Daredevils,Unknown,16.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.705961816103047
+PJ Cummins,Delhi Daredevils,Unknown,60.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.150319028943146
+A Mishra,Delhi Daredevils,Unknown,162.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.057712389535274
+S Nadeem,Delhi Daredevils,Unknown,72.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.85155190526935
+Z Khan,Delhi Daredevils,Unknown,99.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.162400686996783
+Basil Thampi,Gujarat Lions,Unknown,25.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.44895526456232
+Tejas Baroka,Gujarat Lions,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.678393271721273
+AS Rajpoot,Kolkata Knight Riders,Unknown,29.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.13845381521115
+Harbhajan Singh,Mumbai Indians,Unknown,163.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.986072380310201
+SL Malinga,Mumbai Indians,Unknown,122.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.247901467542164
+VR Aaron,Kings XI Punjab,Unknown,52.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.13109654978973
+AB de Villiers,Royal Challengers Bangalore,Unknown,183.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.198150566058722
+CJ Anderson,Delhi Daredevils,Unknown,30.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.99591200745497
+F du Plessis,Rising Pune Supergiant,Unknown,145.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.907165300640262
+RA Tripathi,Rising Pune Supergiant,Unknown,96.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.186550897519703
+V Shankar,Sunrisers Hyderabad,Unknown,72.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.29846281531503
+Mustafizur Rahman,Sunrisers Hyderabad,Unknown,57.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.295136419723908
+I Sharma,Kings XI Punjab,Unknown,110.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.474009626036686
+C de Grandhomme,Kolkata Knight Riders,Unknown,25.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.476245578386738
+UT Yadav,Kolkata Knight Riders,Unknown,148.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.759090924369225
+V Kohli,Royal Challengers Bangalore,Unknown,252.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.048148411021266
+S Badree,Royal Challengers Bangalore,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.10716158350507
+Ishan Kishan,Gujarat Lions,Unknown,107.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.229174430478569
+RA Jadeja,Gujarat Lions,Unknown,240.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.166171638277827
+AJ Tye,Gujarat Lions,Unknown,30.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.90033602426455
+Ankit Sharma,Rising Pune Supergiant,Unknown,22.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.110163890321997
+SN Thakur,Rising Pune Supergiant,Unknown,97.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.698591570581087
+LH Ferguson,Rising Pune Supergiant,Unknown,45.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.682230586615214
+SS Iyer,Delhi Daredevils,Unknown,116.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.706621796962171
+EJG Morgan,Kings XI Punjab,Unknown,83.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.783320769113226
+KC Cariappa,Kings XI Punjab,Unknown,11.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.347774857357386
+MM Patel,Gujarat Lions,Unknown,63.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.331061756127628
+JD Unadkat,Rising Pune Supergiant,Unknown,105.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.760264987761207
+AF Milne,Royal Challengers Bangalore,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.366521703361073
+AD Mathews,Delhi Daredevils,Unknown,49.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.004741126568799
+Mohammed Shami,Delhi Daredevils,Unknown,112.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.508737728602902
+NM Coulter-Nile,Kolkata Knight Riders,Unknown,39.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.871875674774437
+Mohammad Nabi,Sunrisers Hyderabad,Unknown,24.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.641810829731464
+BB Sran,Sunrisers Hyderabad,Unknown,24.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.808616153321598
+S Kaul,Sunrisers Hyderabad,Unknown,55.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.346243906229402
+J Yadav,Delhi Daredevils,Unknown,20.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.092098987433243
+KS Williamson,Sunrisers Hyderabad,Unknown,79.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.820593908197333
+Mohammed Siraj,Sunrisers Hyderabad,Unknown,94.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.970861376280734
+SE Marsh,Kings XI Punjab,Unknown,71.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.165807844180677
+Gurkeerat Singh,Kings XI Punjab,Unknown,41.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.273074909011637
+JP Faulkner,Gujarat Lions,Unknown,60.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.205583394697323
+Shakib Al Hasan,Kolkata Knight Riders,Unknown,71.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.485867513802503
+K Rabada,Delhi Daredevils,Unknown,81.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.469647943200735
+MG Johnson,Mumbai Indians,Unknown,54.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.048761780399253
+Washington Sundar,Rising Pune Supergiant,Unknown,60.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.859898650051106
+AD Nath,Gujarat Lions,Unknown,14.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.387176429357101
+SS Agarwal,Gujarat Lions,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.63339610551118
+NB Singh,Gujarat Lions,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.812692033516054
+KV Sharma,Mumbai Indians,Unknown,84.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.349865737947463
+DM Bravo,Kolkata Knight Riders,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.11609875321606
+Ankit Soni,Gujarat Lions,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.448670785571498
+AR Bawne,Delhi Daredevils,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.540841113731073
+SP Jackson,Kolkata Knight Riders,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.332461496653316
+MJ Guptill,Kings XI Punjab,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.340499994892099
+Anureet Singh,Kings XI Punjab,Unknown,23.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.95671648646661
+IK Pathan,Gujarat Lions,Unknown,103.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.708267036292165
+PJ Sangwan,Gujarat Lions,Unknown,42.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.804585505940048
+MN Samuels,Delhi Daredevils,Unknown,15.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.06409067223884
+LMP Simmons,Mumbai Indians,Unknown,29.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.985175337803968
+R Tewatia,Kings XI Punjab,Unknown,94.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.973412705870317
+MJ Henry,Kings XI Punjab,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.531550944216077
+SS Tiwary,Mumbai Indians,Unknown,92.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.50470595261412
+R Vinay Kumar,Mumbai Indians,Unknown,104.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.067129606127823
+HV Patel,Royal Challengers Bangalore,Unknown,107.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.514127458875013
+Avesh Khan,Royal Challengers Bangalore,Unknown,63.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.063327519991391
+IR Jaggi,Kolkata Knight Riders,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.70806845182556
+CJ Jordan,Sunrisers Hyderabad,Unknown,34.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.359879559795385
+E Lewis,Mumbai Indians,Unknown,27.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.08353719689517
+M Markande,Mumbai Indians,Unknown,37.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.485667570897093
+DJ Bravo,Chennai Super Kings,Unknown,160.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.842741565236127
+MA Wood,Chennai Super Kings,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.133888124845955
+C Munro,Delhi Daredevils,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.270763637342341
+KL Rahul,Kings XI Punjab,Unknown,132.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.014337271593359
+R Ashwin,Kings XI Punjab,Unknown,211.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.114015532839627
+Mujeeb Ur Rahman,Kings XI Punjab,Unknown,19.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.359151059556943
+Q de Kock,Royal Challengers Bangalore,Unknown,109.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.509049771019857
+SN Khan,Royal Challengers Bangalore,Unknown,50.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.982137296609288
+K Khejroliya,Royal Challengers Bangalore,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.26668784040681
+RK Singh,Kolkata Knight Riders,Unknown,47.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.192398449738693
+AD Russell,Kolkata Knight Riders,Unknown,128.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.441599615717038
+DJM Short,Rajasthan Royals,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.128774817881972
+K Gowtham,Rajasthan Royals,Unknown,36.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.369813200839427
+S Gopal,Rajasthan Royals,Unknown,52.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.594863409157348
+B Laughlin,Rajasthan Royals,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.586642648453735
+TK Curran,Kolkata Knight Riders,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.264136687951085
+A Dananjaya,Mumbai Indians,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.26704441331957
+Shubman Gill,Kolkata Knight Riders,Unknown,104.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.050231601623835
+Shivam Mavi,Kolkata Knight Riders,Unknown,32.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.88002368716881
+M Vijay,Chennai Super Kings,Unknown,106.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.57024462897835
+H Klaasen,Rajasthan Royals,Unknown,37.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.402751782385756
+RK Bhui,Sunrisers Hyderabad,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.619302250175974
+JC Archer,Rajasthan Royals,Unknown,42.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.964797404966886
+PP Shaw,Delhi Daredevils,Unknown,79.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.581405478395668
+LE Plunkett,Delhi Daredevils,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.96736278932034
+JP Duminy,Mumbai Indians,Unknown,83.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.338156994645948
+AD Hales,Sunrisers Hyderabad,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.749194927041021
+MK Lomror,Rajasthan Royals,Unknown,40.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.094962792651842
+IS Sodhi,Rajasthan Royals,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.881547790979536
+M Ashwin,Royal Challengers Bangalore,Unknown,44.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.50714212249016
+KM Asif,Chennai Super Kings,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.720825983500774
+L Ngidi,Chennai Super Kings,Unknown,14.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.330283487478175
+DR Shorey,Chennai Super Kings,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.23488225941068
+DJ Willey,Chennai Super Kings,Unknown,11.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.661158403527928
+M Prasidh Krishna,Kolkata Knight Riders,Unknown,52.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.631309373874988
+MM Ali,Royal Challengers Bangalore,Unknown,68.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.293022029187552
+SP Goswami,Sunrisers Hyderabad,Unknown,31.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.41747861969493
+P Chopra,Rajasthan Royals,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.010977618689386
+JPR Scantlebury-Searles,Kolkata Knight Riders,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.475409913111449
+Abhishek Sharma,Delhi Daredevils,Unknown,65.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.8148229363227
+S Lamichhane,Delhi Daredevils,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.321010568650905
+CJ Dala,Delhi Daredevils,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.783462186502641
+KK Ahmed,Sunrisers Hyderabad,Unknown,58.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.254982201724816
+SO Hetmyer,Royal Challengers Bangalore,Unknown,74.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.357817041019043
+S Dube,Royal Challengers Bangalore,Unknown,66.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.867269945756215
+Navdeep Saini,Royal Challengers Bangalore,Unknown,31.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.03474557854225
+JM Bairstow,Sunrisers Hyderabad,Unknown,50.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.392606960842384
+CA Ingram,Delhi Capitals,Unknown,15.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.628589296196646
+KMA Paul,Delhi Capitals,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.384091305013957
+Rasikh Salam,Mumbai Indians,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.084496709615822
+N Pooran,Kings XI Punjab,Unknown,78.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.27413604451175
+SM Curran,Kings XI Punjab,Unknown,60.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.298780761101618
+GC Viljoen,Kings XI Punjab,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.499319365899401
+CV Varun,Kings XI Punjab,Unknown,72.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.663057039417962
+NS Naik,Kolkata Knight Riders,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.976054717180782
+GH Vihari,Delhi Capitals,Unknown,24.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.83065028829455
+P Ray Barman,Royal Challengers Bangalore,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.22706532797172
+MJ Santner,Chennai Super Kings,Unknown,19.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.717144266571497
+JP Behrendorff,Mumbai Indians,Unknown,17.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.835284414552383
+SC Kuggeleijn,Chennai Super Kings,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.097383258882724
+AS Joseph,Mumbai Indians,Unknown,22.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.794222682743273
+S Midhun,Rajasthan Royals,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.009954638401608
+HF Gurney,Kolkata Knight Riders,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.63364384584232
+SD Lad,Mumbai Indians,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.631005793187196
+R Parag,Rajasthan Royals,Unknown,71.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.635132243796214
+JL Denly,Kolkata Knight Riders,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.769678546554807
+LS Livingstone,Rajasthan Royals,Unknown,40.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.337825816155766
+Arshdeep Singh,Kings XI Punjab,Unknown,66.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.77245004944599
+AJ Turner,Rajasthan Royals,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.225500247963886
+DW Steyn,Royal Challengers Bangalore,Unknown,95.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.37195338524306
+Harpreet Brar,Kings XI Punjab,Unknown,41.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.99155979513687
+SE Rutherford,Delhi Capitals,Unknown,11.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.56402749020026
+Y Prithvi Raj,Kolkata Knight Riders,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.759792626760795
+O Thomas,Rajasthan Royals,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.002293075192512
+AS Roy,Mumbai Indians,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.316633862178922
+S Sandeep Warrier,Kolkata Knight Riders,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.162746901897096
+P Simran Singh,Kings XI Punjab,Unknown,35.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.782558305368527
+J Suchith,Delhi Capitals,Unknown,22.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.776352228343857
+JL Pattinson,Mumbai Indians,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.461810542083695
+A Nortje,Delhi Capitals,Unknown,46.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.840638929370096
+SS Cottrell,Kings XI Punjab,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.922743582243658
+Ravi Bishnoi,Kings XI Punjab,Unknown,68.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.978260542258635
+T Banton,Kolkata Knight Riders,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.176789048689255
+D Padikkal,Royal Challengers Bangalore,Unknown,65.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.034223748178494
+I Udana,Royal Challengers Bangalore,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.215723471183914
+PK Garg,Sunrisers Hyderabad,Unknown,23.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.20736135032246
+JO Holder,Sunrisers Hyderabad,Unknown,46.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.87303480296634
+Abdul Samad,Sunrisers Hyderabad,Unknown,51.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.151396685222492
+YBK Jaiswal,Rajasthan Royals,Unknown,54.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.102857326043738
+RD Gaikwad,Chennai Super Kings,Unknown,67.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.554503035547837
+KL Nagarkoti,Kolkata Knight Riders,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.451090138859932
+TU Deshpande,Delhi Capitals,Unknown,38.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.02298127284122
+JR Philippe,Royal Challengers Bangalore,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.023033990620288
+Kartik Tyagi,Rajasthan Royals,Unknown,20.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.83491827186495
+JDS Neesham,Kings XI Punjab,Unknown,14.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.809551015825392
+Shahbaz Ahmed,Royal Challengers Bangalore,Unknown,56.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.184288289499067
+DR Sams,Delhi Capitals,Unknown,16.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.28391819059444
+N Jagadeesan,Chennai Super Kings,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.28058557976746
+AT Carey,Delhi Capitals,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.206736891688152
+JR Hazlewood,Chennai Super Kings,Unknown,28.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.972955747491763
+CJ Green,Kolkata Knight Riders,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.106281385855457
+MR Marsh,Sunrisers Hyderabad,Unknown,44.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.544575405047523
+P Dubey,Delhi Capitals,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.870228029631331
+Monu Kumar,Chennai Super Kings,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.198170523013518
+M Jansen,Mumbai Indians,Unknown,22.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.909943339015808
+RM Patidar,Royal Challengers Bangalore,Unknown,28.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.47533255432638
+KA Jamieson,Royal Challengers Bangalore,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.14793800287935
+M Shahrukh Khan,Punjab Kings,Unknown,41.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.780086340091502
+JA Richardson,Punjab Kings,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.549170533878433
+RP Meredith,Punjab Kings,Unknown,18.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.241118790756213
+C Sakariya,Rajasthan Royals,Unknown,19.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.428239440689136
+Lalit Yadav,Delhi Capitals,Unknown,27.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.477335793063146
+Virat Singh,Sunrisers Hyderabad,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.88978417155775
+Jalaj S Saxena,Punjab Kings,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.499994868902728
+LI Meriwala,Delhi Capitals,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.351997448238183
+FA Allen,Punjab Kings,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.336437670702157
+KW Richardson,Royal Challengers Bangalore,Unknown,15.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.673965918416927
+Anuj Rawat,Rajasthan Royals,Unknown,24.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.955572569988783
+DJ Malan,Punjab Kings,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.63660574870756
+KS Bharat,Royal Challengers Bangalore,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.478545312488206
+PWH de Silva,Royal Challengers Bangalore,Unknown,27.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.838232730787192
+VR Iyer,Kolkata Knight Riders,Unknown,52.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.212843676861104
+Umran Malik,Sunrisers Hyderabad,Unknown,26.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.130665137014473
+GD Phillips,Rajasthan Royals,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.555978196485613
+Akash Singh,Rajasthan Royals,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.484346798833164
+GHS Garton,Royal Challengers Bangalore,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.007917489786655
+AK Markram,Punjab Kings,Unknown,46.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.24661104826355
+K Yadav,Rajasthan Royals,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.978230193967038
+T Shamsi,Rajasthan Royals,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.811493843121216
+NT Ellis,Punjab Kings,Unknown,17.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.924338393999076
+RV Patel,Delhi Capitals,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.906115942760241
+TL Seifert,Kolkata Knight Riders,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.66373445375202
+Anmolpreet Singh,Mumbai Indians,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.811035598980288
+IC Porel,Punjab Kings,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.95427912550969
+AU Rashid,Punjab Kings,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.701932331036183
+TH David,Royal Challengers Bangalore,Unknown,39.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.675086367230328
+DP Conway,Chennai Super Kings,Unknown,23.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.427849916035372
+Tilak Varma,Mumbai Indians,Unknown,39.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.948384890907816
+R Powell,Delhi Capitals,Unknown,26.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.074760412660217
+Akash Deep,Royal Challengers Bangalore,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.934860567287354
+PBB Rajapaksa,Punjab Kings,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.362974169382888
+RA Bawa,Punjab Kings,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.05029969143232
+OF Smith,Punjab Kings,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.166057523422191
+A Badoni,Lucknow Super Giants,Unknown,44.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.089503792358835
+PVD Chameera,Lucknow Super Giants,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.083824310969455
+Mohsin Khan,Lucknow Super Giants,Unknown,24.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.91646579882601
+MS Wade,Gujarat Titans,Unknown,15.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.697192180759593
+A Manohar,Gujarat Titans,Unknown,21.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.886121589380934
+R Shepherd,Sunrisers Hyderabad,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.572891552125451
+D Pretorius,Chennai Super Kings,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.278452861213209
+Mukesh Choudhary,Chennai Super Kings,Unknown,14.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.736010735633549
+JM Sharma,Punjab Kings,Unknown,41.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.122616780600707
+VG Arora,Punjab Kings,Unknown,22.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.674319791112607
+D Brevis,Mumbai Indians,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.097043441746358
+B Sai Sudharsan,Gujarat Titans,Unknown,26.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.421729443705885
+DG Nalkande,Gujarat Titans,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.681574728669542
+M Theekshana,Chennai Super Kings,Unknown,29.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.973774345906993
+Shashank Singh,Sunrisers Hyderabad,Unknown,25.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.454164180261534
+Ramandeep Singh,Mumbai Indians,Unknown,21.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.768629750689666
+HE van der Dussen,Rajasthan Royals,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.10642423780296
+KR Sen,Rajasthan Royals,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.56214468057661
+SS Prabhudessai,Royal Challengers Bangalore,Unknown,11.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.851959666239392
+Yash Dayal,Gujarat Titans,Unknown,29.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.741331943353078
+Aman Hakim Khan,Kolkata Knight Riders,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.077587264945258
+OC McCoy,Rajasthan Royals,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.135564462557284
+HR Shokeen,Mumbai Indians,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.169260399988957
+R Dhawan,Punjab Kings,Unknown,39.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.704621335955142
+DJ Mitchell,Rajasthan Royals,Unknown,15.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.429560021469268
+B Indrajith,Kolkata Knight Riders,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.361416785114827
+Harshit Rana,Kolkata Knight Riders,Unknown,22.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.476999998327523
+K Kartikeya,Mumbai Indians,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.72653631519427
+Simarjeet Singh,Chennai Super Kings,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.089948479854392
+SA Abbott,Sunrisers Hyderabad,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.675688663799376
+Fazalhaq Farooqi,Sunrisers Hyderabad,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.100452308332077
+R Sai Kishore,Gujarat Titans,Unknown,11.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.988622642341785
+KS Sharma,Lucknow Super Giants,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.353295897063928
+T Stubbs,Mumbai Indians,Unknown,19.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.320572263885952
+PH Solanki,Chennai Super Kings,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.747888406885819
+M Pathirana,Chennai Super Kings,Unknown,20.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.544896515815726
+R Sanjay Yadav,Mumbai Indians,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.310518807472773
+A Tomar,Kolkata Knight Riders,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.504913810052022
+PN Mankad,Punjab Kings,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.891516762596355
+RS Hangargekar,Chennai Super Kings,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.160180081324611
+J Little,Gujarat Titans,Unknown,11.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.548029537914486
+Sikandar Raza,Punjab Kings,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.696554279825223
+Rahmanullah Gurbaz,Kolkata Knight Riders,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.39832272402941
+KR Mayers,Lucknow Super Giants,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.442911999969576
+RR Rossouw,Delhi Capitals,Unknown,22.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.61732453265194
+Mukesh Kumar,Delhi Capitals,Unknown,21.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.238175521739535
+NA Saini,Rajasthan Royals,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.735017129266812
+HC Brook,Sunrisers Hyderabad,Unknown,11.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.931971948984767
+C Green,Mumbai Indians,Unknown,29.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.000803519736165
+N Wadhera,Mumbai Indians,Unknown,20.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.321798491308192
+Arshad Khan,Mumbai Indians,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.75780327460534
+MG Bracewell,Royal Challengers Bangalore,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.999347567864714
+RJW Topley,Royal Challengers Bangalore,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.752119679096648
+Yash Thakur,Lucknow Super Giants,Unknown,19.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.077123373520962
+Abishek Porel,Delhi Capitals,Unknown,19.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.841269955515608
+Dhruv Jurel,Rajasthan Royals,Unknown,29.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.368737172316418
+Suyash Sharma,Kolkata Knight Riders,Unknown,14.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.886806740092782
+SSB Magala,Chennai Super Kings,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.319474811747844
+MW Short,Punjab Kings,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.829078806312074
+Mohit Rathee,Punjab Kings,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.316647025408606
+WD Parnell,Royal Challengers Bangalore,Unknown,33.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.40110152397042
+YV Dhull,Delhi Capitals,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.058058932825194
+Vijaykumar Vyshak,Royal Challengers Bangalore,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.099047524264599
+Yudhvir Singh,Lucknow Super Giants,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.050286208761749
+Atharva Taide,Punjab Kings,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.272579257242452
+Harpreet Singh,Punjab Kings,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.109077622334139
+Arjun Tendulkar,Mumbai Indians,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.982945821258937
+D Jansen,Mumbai Indians,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.012993160996647
+Noor Ahmad,Gujarat Titans,Unknown,24.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.501970332504062
+Naveen-ul-Haq,Lucknow Super Giants,Unknown,18.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.852989206550195
+Liton Das,Kolkata Knight Riders,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.15183441244468
+PD Salt,Delhi Capitals,Unknown,22.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.45103896575079
+Mayank Dagar,Sunrisers Hyderabad,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.654588353443021
+Abdul Basith,Rajasthan Royals,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.858963851660908
+D Wiese,Kolkata Knight Riders,Unknown,18.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.242032067230676
+Gurnoor Brar,Punjab Kings,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.326045512068038
+AJ Hosein,Sunrisers Hyderabad,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.270048788873671
+Akash Madhwal,Mumbai Indians,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.800681501538373
+R Goyal,Mumbai Indians,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.680415840240958
+JE Root,Rajasthan Royals,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.599243037490552
+Vivrant Sharma,Sunrisers Hyderabad,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.863211032523616
+MD Shanaka,Gujarat Titans,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.662103420641676
+Sanvir Singh,Sunrisers Hyderabad,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.239275197072411
+Nithish Kumar Reddy,Sunrisers Hyderabad,Unknown,17.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.067996959444246
+H Sharma,Royal Challengers Bangalore,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.91107814568208
+R Ravindra,Chennai Super Kings,Unknown,11.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.448078581262399
+Sameer Rizvi,Chennai Super Kings,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.657785810059577
+SD Hope,Delhi Capitals,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.408350322088095
+Sumit Kumar,Delhi Capitals,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.512608156957405
+MA Starc,Kolkata Knight Riders,Unknown,41.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.790611650750101
+N Burger,Rajasthan Royals,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.24718101289628
+Azmatullah Omarzai,Gujarat Titans,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.255502222052536
+SH Johnson,Gujarat Titans,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.999496218446406
+L Wood,Mumbai Indians,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.043064698988536
+Naman Dhir,Mumbai Indians,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.997052189965652
+G Coetzee,Mumbai Indians,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.190427970707482
+SZ Mulani,Mumbai Indians,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.547909063882976
+KT Maphaka,Mumbai Indians,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.454987101271984
+A Raghuvanshi,Kolkata Knight Riders,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.57951936841695
+MP Yadav,Lucknow Super Giants,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.816358533783868
+M Siddharth,Lucknow Super Giants,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.075142578718328
+SB Dubey,Rajasthan Royals,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.366000574421133
+Ashutosh Sharma,Punjab Kings,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.634679320983665
+Saurav Chauhan,Royal Challengers Bengaluru,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.31996383165791
+Kumar Kushagra,Delhi Capitals,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.051889814309929
+BR Sharath,Gujarat Titans,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.989819638614605
+KA Maharaj,Rajasthan Royals,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.710838395506105
+WG Jacks,Royal Challengers Bengaluru,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.35065724748312
+J Fraser-McGurk,Delhi Capitals,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.106407442003805
+Tanush Kotian,Rajasthan Royals,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.079456930913654
+Arshad Khan (2),Lucknow Super Giants,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.18271506593303
+S Joseph,Lucknow Super Giants,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.856355963876087
+N Thushara,Mumbai Indians,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.563150461037731
+LB Williams,Delhi Capitals,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.50000351691908
+AA Kulkarni,Lucknow Super Giants,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.221252540039124
+RJ Gleeson,Chennai Super Kings,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.858443383018487
+MJ Suthar,Gujarat Titans,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.734135883913101
+A Kamboj,Mumbai Indians,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.725396285766442
+Gulbadin Naib,Delhi Capitals,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.988209288879283
+D Ferreira,Rajasthan Royals,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.951369006799595
+V Viyaskanth,Sunrisers Hyderabad,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.034429326796948
+V Kaverappa,Punjab Kings,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.517832943396852
+T Kohler-Cadmore,Rajasthan Royals,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.216631336702553
+Shivam Singh,Punjab Kings,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.720762230643981
+Aniket Verma,Sunrisers Hyderabad,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.26458138981028
+V Puthur,Mumbai Indians,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.161657416481699
+RD Rickelton,Mumbai Indians,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.227543318913142
+R Minz,Mumbai Indians,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.698327429835176
+PVSN Raju,Mumbai Indians,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.662511800933965
+DS Rathi,Lucknow Super Giants,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.302609722083032
+Prince Yadav,Lucknow Super Giants,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.250077189585884
+V Nigam,Delhi Capitals,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.79606460838811
+Priyansh Arya,Punjab Kings,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.156081289603254
+Suryansh Shedge,Punjab Kings,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.34853368100931
+SC Ganguly,Kolkata Knight Riders,Unknown,59.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.761024440209288
+RT Ponting,Kolkata Knight Riders,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.116047210265137
+DJ Hussey,Kolkata Knight Riders,Unknown,64.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.656406339227873
+Mohammad Hafeez,Kolkata Knight Riders,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.339323584315643
+LR Shukla,Kolkata Knight Riders,Unknown,47.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.87195058441134
+AB Agarkar,Kolkata Knight Riders,Unknown,42.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.499118808098462
+M Kartik,Kolkata Knight Riders,Unknown,56.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.109827800684595
+R Dravid,Royal Challengers Bangalore,Unknown,89.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.981558878548194
+W Jaffer,Royal Challengers Bangalore,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.150019733215071
+JH Kallis,Royal Challengers Bangalore,Unknown,98.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.357797540033102
+CL White,Royal Challengers Bangalore,Unknown,47.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.736173351725187
+MV Boucher,Royal Challengers Bangalore,Unknown,31.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.252652825747225
+B Akhil,Royal Challengers Bangalore,Unknown,15.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.966822585621006
+AA Noffke,Royal Challengers Bangalore,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.278215119217315
+SB Joshi,Royal Challengers Bangalore,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.643828006547674
+ML Hayden,Chennai Super Kings,Unknown,32.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.333521477789033
+MEK Hussey,Chennai Super Kings,Unknown,59.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.906076508882956
+JDP Oram,Chennai Super Kings,Unknown,18.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.596102932897258
+S Badrinath,Chennai Super Kings,Unknown,94.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.229030603327365
+Joginder Sharma,Chennai Super Kings,Unknown,16.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.424211037311473
+P Amarnath,Chennai Super Kings,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.209228282648724
+M Muralitharan,Chennai Super Kings,Unknown,66.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.768356089481152
+K Goel,Kings XI Punjab,Unknown,22.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.328995673126611
+JR Hopes,Kings XI Punjab,Unknown,21.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.170061604433442
+KC Sangakkara,Kings XI Punjab,Unknown,71.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.578297080510623
+SM Katich,Kings XI Punjab,Unknown,11.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.616404457712264
+P Dharmani,Kings XI Punjab,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.688548049421001
+B Lee,Kings XI Punjab,Unknown,38.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.97972799354595
+WA Mota,Kings XI Punjab,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.959027445727198
+S Sreesanth,Kings XI Punjab,Unknown,44.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.809227555851404
+T Kohli,Rajasthan Royals,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.112689126000236
+M Kaif,Rajasthan Royals,Unknown,29.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.40653167682486
+DS Lehmann,Rajasthan Royals,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.753437002815001
+M Rawat,Rajasthan Royals,Unknown,18.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.342020444205987
+D Salunkhe,Rajasthan Royals,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.36649968490989
+SK Warne,Rajasthan Royals,Unknown,55.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.389702996577554
+SK Trivedi,Rajasthan Royals,Unknown,76.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.749899826947985
+V Sehwag,Delhi Daredevils,Unknown,104.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.765324429268944
+M Manhas,Delhi Daredevils,Unknown,55.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.103931488047206
+DL Vettori,Delhi Daredevils,Unknown,34.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.32043279872288
+MF Maharoof,Delhi Daredevils,Unknown,20.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.604171516874633
+B Geeves,Delhi Daredevils,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.634624461753178
+GD McGrath,Delhi Daredevils,Unknown,14.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.545451570834825
+L Ronchi,Mumbai Indians,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.211495545825233
+ST Jayasuriya,Mumbai Indians,Unknown,30.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.514338468830907
+DJ Thornely,Mumbai Indians,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.583318049434395
+PR Shah,Mumbai Indians,Unknown,16.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.77582238765905
+AM Nayar,Mumbai Indians,Unknown,60.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.827859752072314
+SM Pollock,Mumbai Indians,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.339557413525661
+MA Khote,Mumbai Indians,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.275028926672816
+S Chanderpaul,Royal Challengers Bangalore,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.659268242234068
+LRPL Taylor,Royal Challengers Bangalore,Unknown,55.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.359157923608727
+AC Gilchrist,Deccan Chargers,Unknown,80.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.43951591881882
+Y Venugopal Rao,Deccan Chargers,Unknown,65.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.534196052524909
+VVS Laxman,Deccan Chargers,Unknown,20.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.025150544619706
+A Symonds,Deccan Chargers,Unknown,39.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.659752414655383
+SB Styris,Deccan Chargers,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.921232098268439
+AS Yadav,Deccan Chargers,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.622997579907288
+SB Bangar,Deccan Chargers,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.652968775914838
+WPUJC Vaas,Deccan Chargers,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.524719765637272
+RP Singh,Deccan Chargers,Unknown,82.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.081987814875093
+PP Ojha,Deccan Chargers,Unknown,92.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.79807659365218
+DPMD Jayawardene,Kings XI Punjab,Unknown,80.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.181782094963825
+S Sohal,Kings XI Punjab,Unknown,22.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.162894978795585
+Kamran Akmal,Rajasthan Royals,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.110750793740651
+Pankaj Singh,Rajasthan Royals,Unknown,17.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.54611898614148
+Shahid Afridi,Deccan Chargers,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.617533262881112
+Shoaib Malik,Delhi Daredevils,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.111374254588082
+Mohammad Asif,Delhi Daredevils,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.884364045641902
+VY Mahesh,Delhi Daredevils,Unknown,17.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.804504323348755
+VS Yeligati,Mumbai Indians,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.94644658363822
+D Kalyankrishna,Deccan Chargers,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.136578028979311
+GC Smith,Rajasthan Royals,Unknown,29.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.794157522158804
+RR Sarwan,Kings XI Punjab,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.853770655672406
+VRV Singh,Kings XI Punjab,Unknown,19.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.129861116262733
+Sohail Tanvir,Rajasthan Royals,Unknown,11.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.510052802652691
+A Kumble,Royal Challengers Bangalore,Unknown,42.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.56652287807749
+DNT Zoysa,Deccan Chargers,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.048980450081425
+SD Chitnis,Mumbai Indians,Unknown,11.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.482125036053056
+TM Srivastava,Kings XI Punjab,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.536171152525243
+JA Morkel,Chennai Super Kings,Unknown,90.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.510857338694834
+B Chipli,Royal Challengers Bangalore,Unknown,23.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.600763258873494
+DB Das,Kolkata Knight Riders,Unknown,31.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.217873187598748
+CRD Fernando,Mumbai Indians,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.679937812308495
+HH Gibbs,Deccan Chargers,Unknown,36.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.038300228593688
+Gagandeep Singh,Kings XI Punjab,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.687823684836186
+Salman Butt,Kolkata Knight Riders,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.915059221967931
+BJ Hodge,Kolkata Knight Riders,Unknown,66.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.820340638926334
+Umar Gul,Kolkata Knight Riders,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.971504398492678
+SA Asnodkar,Rajasthan Royals,Unknown,20.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.104768948845996
+SP Fleming,Chennai Super Kings,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.5496627827001
+S Vidyut,Chennai Super Kings,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.01552858809741
+M Ntini,Chennai Super Kings,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.358341954300219
+LPC Silva,Deccan Chargers,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.344957669648299
+DB Ravi Teja,Deccan Chargers,Unknown,32.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.667600212313587
+DP Vijaykumar,Deccan Chargers,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.231303552473044
+Misbah-ul-Haq,Royal Challengers Bangalore,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.946791678444207
+YV Takawale,Mumbai Indians,Unknown,16.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.478375130762931
+RR Raje,Mumbai Indians,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.499535238434035
+U Kaul,Kings XI Punjab,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.704920283761064
+DT Patil,Royal Challengers Bangalore,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.589632959871896
+S Anirudha,Chennai Super Kings,Unknown,20.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.25561991000799
+CK Kapugedera,Chennai Super Kings,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.491089595628159
+L Balaji,Chennai Super Kings,Unknown,73.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.600623153483603
+A Chopra,Kolkata Knight Riders,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.580842744100133
+T Taibu,Kolkata Knight Riders,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.403190455707575
+J Arunkumar,Royal Challengers Bangalore,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.251855704961644
+NK Patel,Rajasthan Royals,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.13395351916085
+SR Tendulkar,Mumbai Indians,Unknown,78.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.733549945171108
+TM Dilshan,Delhi Daredevils,Unknown,51.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.94469719666179
+AD Mascarenhas,Rajasthan Royals,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.284826844040847
+LA Pomersbach,Kings XI Punjab,Unknown,17.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.1156661340039
+Shoaib Akhtar,Kolkata Knight Riders,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.643976020742642
+RR Powar,Kings XI Punjab,Unknown,27.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.827624332628494
+Younis Khan,Rajasthan Royals,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.767954759441837
+PM Sarvesh Kumar,Deccan Chargers,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.569481498985006
+RV Pawar,Mumbai Indians,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.775935661648306
+Abdur Razzak,Royal Challengers Bangalore,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.12501205736907
+H Das,Deccan Chargers,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.428899092058764
+A Nel,Mumbai Indians,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.877740779896008
+A Mukund,Chennai Super Kings,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.863615231151595
+BAW Mendis,Kolkata Knight Riders,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.036967886024401
+A Flintoff,Chennai Super Kings,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.006556128732909
+T Thushara,Chennai Super Kings,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.768789305564601
+T Henderson,Rajasthan Royals,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.176831920279211
+Kamran Khan,Rajasthan Royals,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.859717060738397
+JD Ryder,Royal Challengers Bangalore,Unknown,29.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.623992641037862
+KP Pietersen,Royal Challengers Bangalore,Unknown,36.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.502297969270838
+DP Nannes,Delhi Daredevils,Unknown,29.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.136443356971476
+AM Salvi,Delhi Daredevils,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.968156267708308
+RS Bopara,Kings XI Punjab,Unknown,24.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.388084639875185
+VS Malik,Kings XI Punjab,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.128410274105304
+YA Abdulla,Kings XI Punjab,Unknown,11.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.957417068327842
+Harmeet Singh,Deccan Chargers,Unknown,28.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.721422201397779
+FH Edwards,Deccan Chargers,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.248474174096934
+R Bishnoi,Royal Challengers Bangalore,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.867095771062933
+Yashpal Singh,Kolkata Knight Riders,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.33291326070776
+PC Valthaty,Rajasthan Royals,Unknown,23.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.876104254609455
+RJ Quiney,Rajasthan Royals,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.666808514476713
+AS Raut,Rajasthan Royals,Unknown,22.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.200887877941428
+RR Bose,Kings XI Punjab,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.678830652039288
+KP Appanna,Royal Challengers Bangalore,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.210613258672335
+AA Bilakhia,Deccan Chargers,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.996807352452127
+Shoaib Ahmed,Deccan Chargers,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.785532230338156
+AN Ghosh,Kolkata Knight Riders,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.549750755644785
+MN van Wyk,Kolkata Knight Riders,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.519443375782066
+RE van der Merwe,Royal Challengers Bangalore,Unknown,21.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.677118871083419
+TL Suman,Deccan Chargers,Unknown,43.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.459542847853859
+S Tyagi,Chennai Super Kings,Unknown,14.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.09607957393975
+GR Napier,Mumbai Indians,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.13998190506195
+LA Carseldine,Rajasthan Royals,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.493517069158372
+SM Harwood,Rajasthan Royals,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.110996355639937
+D du Preez,Royal Challengers Bangalore,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.298034348523299
+RJ Harris,Deccan Chargers,Unknown,37.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.727440148893583
+A Singh,Rajasthan Royals,Unknown,23.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.774633167265332
+M Morkel,Rajasthan Royals,Unknown,70.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.273804250597834
+GJ Bailey,Chennai Super Kings,Unknown,40.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.597910606518363
+C Nanda,Mumbai Indians,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.024890853286692
+A Mithun,Royal Challengers Bangalore,Unknown,16.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.60572437415017
+SS Sarkar,Kolkata Knight Riders,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.716955663351085
+J Botha,Rajasthan Royals,Unknown,34.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.110727923872934
+Mashrafe Mortaza,Kolkata Knight Riders,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.18535115117887
+SS Shaikh,Kolkata Knight Riders,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.816832262379048
+Jaskaran Singh,Deccan Chargers,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.740197683506834
+AB McDonald,Delhi Daredevils,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.27813508730931
+Y Nagar,Delhi Daredevils,Unknown,26.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.747915081539144
+CK Langeveldt,Kolkata Knight Riders,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.134087148524088
+Mohammad Ashraful,Mumbai Indians,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.983878003895835
+RA Shaikh,Mumbai Indians,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.538773477298067
+Anirudh Singh,Deccan Chargers,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.23647458455336
+CA Pujara,Kolkata Knight Riders,Unknown,30.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.892548441307598
+OA Shah,Kolkata Knight Riders,Unknown,23.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.713919271588457
+R Sathish,Mumbai Indians,Unknown,34.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.329323897319762
+R McLaren,Mumbai Indians,Unknown,18.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.957634245495257
+AG Murtaza,Mumbai Indians,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.166088805801198
+AA Jhunjhunwala,Rajasthan Royals,Unknown,21.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.994838280045158
+P Dogra,Rajasthan Royals,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.159218770876063
+A Uniyal,Rajasthan Royals,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.37898577392466
+SW Tait,Rajasthan Royals,Unknown,21.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.459847846500022
+MS Bisla,Kings XI Punjab,Unknown,39.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.381108002986291
+RS Gavaskar,Kolkata Knight Riders,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.118904719660216
+JM Kemp,Chennai Super Kings,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.57124162474609
+S Ladda,Delhi Daredevils,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.04402073255756
+SE Bond,Kolkata Knight Riders,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.927261603806762
+MJ Lumb,Rajasthan Royals,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.170129945194423
+DR Martyn,Rajasthan Royals,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.700529081873075
+S Narwal,Rajasthan Royals,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.401406794600447
+AB Barath,Kings XI Punjab,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.689503489495957
+SJ Srivastava,Kings XI Punjab,Unknown,14.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.282280841263734
+FY Fazal,Rajasthan Royals,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.560850394903838
+AC Voges,Rajasthan Royals,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.450410449265268
+MD Mishra,Deccan Chargers,Unknown,18.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.147899591457637
+R Sharma,Deccan Chargers,Unknown,44.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.534692643100854
+J Theron,Kings XI Punjab,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.770785200157666
+NLTC Perera,Chennai Super Kings,Unknown,37.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.286869923913716
+KB Arun Karthik,Chennai Super Kings,Unknown,17.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.375685269654033
+KAJ Roach,Deccan Chargers,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.234736596296768
+PD Collingwood,Delhi Daredevils,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.415704652632847
+C Ganapathy,Chennai Super Kings,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.233162594977737
+MB Parmar,Kolkata Knight Riders,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.416500672416603
+DE Bollinger,Chennai Super Kings,Unknown,27.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.442219613081436
+SB Wagh,Rajasthan Royals,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.749953112371818
+AP Dole,Rajasthan Royals,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.800559878629043
+AN Ahmed,Mumbai Indians,Unknown,17.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.879351545421141
+RS Sodhi,Kings XI Punjab,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.527463894759059
+L Ablish,Kings XI Punjab,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.167096935484713
+B Sumanth,Deccan Chargers,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.314320090589451
+S Sriram,Royal Challengers Bangalore,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.454108737964162
+C Madan,Mumbai Indians,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.923436255878212
+AG Paunikar,Rajasthan Royals,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.63918955612286
+ND Doshi,Royal Challengers Bangalore,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.335610356356792
+S Randiv,Chennai Super Kings,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.691184433084306
+AL Menaria,Rajasthan Royals,Unknown,29.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.394314652578522
+RV Gomez,Kochi Tuskers Kerala,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.798603792271585
+AUK Pathan,Royal Challengers Bangalore,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.328815021703676
+UBT Chand,Delhi Daredevils,Unknown,21.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.489554475738004
+DJ Jacobs,Mumbai Indians,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.316289564184334
+JEC Franklin,Mumbai Indians,Unknown,20.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.750021387583093
+Sunny Singh,Kings XI Punjab,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.150579779006325
+NJ Rimmington,Kings XI Punjab,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.258906425986126
+BA Bhatt,Kings XI Punjab,Unknown,17.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.017996240561908
+AC Thomas,Pune Warriors,Unknown,15.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.899254203418085
+RN ten Doeschate,Kolkata Knight Riders,Unknown,29.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.64055408146783
+JJ van der Wath,Royal Challengers Bangalore,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.884577088606395
+R Ninan,Royal Challengers Bangalore,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.623099386591619
+TD Paine,Pune Warriors,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.679711843993822
+DH Yagnik,Rajasthan Royals,Unknown,25.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.939791072570415
+BJ Haddin,Kolkata Knight Riders,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.556997715109741
+J Syed Mohammad,Royal Challengers Bangalore,Unknown,11.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.835909386944344
+NL McCullum,Pune Warriors,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.754498972145218
+JE Taylor,Pune Warriors,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.325903078949496
+KMDN Kulasekara,Chennai Super Kings,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.08405713154323
+TR Birt,Delhi Daredevils,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.72978161873798
+M Klinger,Kochi Tuskers Kerala,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.04522423908667
+P Parameswaran,Kochi Tuskers Kerala,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.438665975153786
+AC Blizzard,Mumbai Indians,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.403274905504748
+I Malhotra,Deccan Chargers,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.223060779543752
+CJ Ferguson,Pune Warriors,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.926141818323348
+AA Kazi,Royal Challengers Bangalore,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.606217172809117
+Anand Rajan,Deccan Chargers,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.693059577596042
+P Prasanth,Kochi Tuskers Kerala,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.912024108960187
+Y Gnaneswara Rao,Kochi Tuskers Kerala,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.654914584765443
+AA Chavan,Rajasthan Royals,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.973820130186663
+S Rana,Pune Warriors,Unknown,11.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.803127007929643
+KH Devdhar,Deccan Chargers,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.470099526716618
+SS Mundhe,Pune Warriors,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.044654278894233
+RW Price,Mumbai Indians,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.759438097993902
+RE Levi,Mumbai Indians,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.582419367977732
+M de Lange,Kolkata Knight Riders,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.388739292305775
+KK Cooper,Rajasthan Royals,Unknown,25.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.45831992899761
+DAJ Bracewell,Delhi Daredevils,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.445381394477852
+DJ Harris,Deccan Chargers,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.838931744069573
+TP Sudhindra,Deccan Chargers,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.393887008745763
+GB Hogg,Rajasthan Royals,Unknown,21.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.488885262348635
+RR Bhatkal,Royal Challengers Bangalore,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.70773342922792
+P Awana,Kings XI Punjab,Unknown,33.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.490362927309565
+V Pratap Singh,Deccan Chargers,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.475162459513037
+CJ McKay,Mumbai Indians,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.907255296339954
+T Mishra,Deccan Chargers,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.920270444988203
+A Ashish Reddy,Deccan Chargers,Unknown,31.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.432124708680924
+N Saini,Kings XI Punjab,Unknown,10.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.926636226860602
+Azhar Mahmood,Kings XI Punjab,Unknown,23.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.284436372204388
+A Chandila,Rajasthan Royals,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.401807588252911
+LJ Wright,Pune Warriors,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.714126281022068
+RJ Peterson,Mumbai Indians,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.999906203022515
+R Shukla,Mumbai Indians,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.241567230936433
+BB Samantray,Deccan Chargers,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.367320322911656
+MJ Clarke,Pune Warriors,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.974188413112252
+BW Hilfenhaus,Chennai Super Kings,Unknown,17.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.663745714944522
+PA Reddy,Deccan Chargers,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.762782276641436
+AP Majumdar,Pune Warriors,Unknown,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.950988620993574
+K Upadhyay,Pune Warriors,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.316768484039429
+Sunny Gupta,Delhi Daredevils,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.40354460623893
+MC Juneja,Delhi Daredevils,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.322118815211315
+MDKJ Perera,Rajasthan Royals,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.69637154701981
+BMAJ Mendis,Delhi Daredevils,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.782772111652921
+R Rampaul,Royal Challengers Bangalore,Unknown,12.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.36410966823191
+SMSM Senanayake,Kolkata Knight Riders,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.205398373007938
+BJ Rohrer,Delhi Daredevils,Unknown,8.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.512583463291705
+IC Pandey,Pune Warriors,Unknown,25.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.15134195201793
+CM Gautam,Delhi Daredevils,Unknown,13.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.704239000751384
+X Thalaivan Sargunam,Sunrisers Hyderabad,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.712047449077886
+DJG Sammy,Sunrisers Hyderabad,Unknown,22.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.231069983684316
+P Suyal,Mumbai Indians,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.135714663526048
+UA Birla,Pune Warriors,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.278920054041064
+PV Tambe,Rajasthan Royals,Unknown,33.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.320135037181041
+Parvez Rasool,Pune Warriors,Unknown,11.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.053196183224559
+MG Neser,Kings XI Punjab,Unknown,1.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.63269951568218
+NJ Maddinson,Royal Challengers Bangalore,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.44059330864812
+BR Dunk,Mumbai Indians,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.153858115616782
+Shivam Sharma,Kings XI Punjab,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.182922249586753
+VH Zol,Royal Challengers Bangalore,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.825502402272043
+K Santokie,Mumbai Indians,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.641478884839096
+BE Hendricks,Kings XI Punjab,Unknown,7.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.405911269458409
+JW Hastings,Chennai Super Kings,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.751452147667408
+Karanveer Singh,Kings XI Punjab,Unknown,9.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.73405961387384
+DJ Muthuswami,Delhi Daredevils,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.533322148507795
+RG More,Chennai Super Kings,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.71264887824565
+GS Sandhu,Delhi Daredevils,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.106142920760607
+P Sahu,Kings XI Punjab,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.306875996720908
+KJ Abbott,Kings XI Punjab,Unknown,5.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.630719967134889
+PSP Handscomb,Rising Pune Supergiants,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.38061055820529
+SM Boland,Rising Pune Supergiants,Unknown,2.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.06024836508274
+UT Khawaja,Rising Pune Supergiants,Unknown,6.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,9.53357825656969
+F Behardien,Kings XI Punjab,Unknown,3.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,8.322405797621416
+ER Dwivedi,Gujarat Lions,AR,4.0,0.0,0.0,0.0,0.0,0,0,0,0.5,0.0,0,0.0,0.0,10.357426964924947
