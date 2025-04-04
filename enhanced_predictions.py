@@ -3,6 +3,7 @@ import numpy as np
 import os
 import json
 from datetime import datetime, timedelta
+import joblib
 
 def generate_advanced_features(player_history, upcoming_match):
     """Generate advanced features based on research paper methodology"""
@@ -595,6 +596,73 @@ def select_enhanced_fantasy_team(upcoming_match, budget=100.0, captain_bonus=2.0
     # Now use the regular team selection with enhanced predictions
     print("Using enhanced predictions for Dream11 team selection")
     return select_fantasy_team(upcoming_match, budget, captain_bonus, vice_captain_bonus)
+
+def predict_with_real_data(player_name, role, player_features=None):
+    """Predict player performance using trained models from real data"""
+    try:
+        # Try to find player in the mappings
+        mapping_file = 'data/mappings/player_name_mapping.txt'
+        
+        # Initialize with default prediction
+        model_prediction = None
+        
+        if os.path.exists(mapping_file):
+            # Load name mappings
+            name_mappings = {}
+            with open(mapping_file, 'r') as f:
+                for line in f:
+                    kaggle_name, dream11_name = line.strip().split('|')
+                    name_mappings[dream11_name] = kaggle_name
+            
+            # Check if player is in mappings
+            if player_name in name_mappings:
+                kaggle_name = name_mappings[player_name]
+                
+                # Determine if batsman or bowler (or both for all-rounders)
+                if role in ['BAT', 'WK']:
+                    # Load batsman model
+                    model_path = 'models/gb_batsmen.pkl'
+                    if os.path.exists(model_path):
+                        model = joblib.load(model_path)
+                        # Create feature vector (would need to extract from somewhere)
+                        if player_features is not None:
+                            # Use model to predict
+                            model_prediction = model.predict([player_features])[0]
+                
+                elif role == 'BOWL':
+                    # Load bowler model
+                    model_path = 'models/gb_bowlers.pkl'
+                    if os.path.exists(model_path):
+                        model = joblib.load(model_path)
+                        # Create feature vector
+                        if player_features is not None:
+                            # Use model to predict
+                            model_prediction = model.predict([player_features])[0]
+                
+                elif role == 'AR':
+                    # For all-rounders, combine both predictions
+                    bat_model_path = 'models/gb_batsmen.pkl'
+                    bowl_model_path = 'models/gb_bowlers.pkl'
+                    
+                    bat_prediction = 0
+                    bowl_prediction = 0
+                    
+                    if os.path.exists(bat_model_path) and player_features is not None:
+                        bat_model = joblib.load(bat_model_path)
+                        bat_prediction = bat_model.predict([player_features])[0]
+                    
+                    if os.path.exists(bowl_model_path) and player_features is not None:
+                        bowl_model = joblib.load(bowl_model_path)
+                        bowl_prediction = bowl_model.predict([player_features])[0]
+                    
+                    # Combine predictions
+                    model_prediction = bat_prediction + bowl_prediction
+        
+        return model_prediction
+    
+    except Exception as e:
+        print(f"Error predicting with real data for {player_name}: {e}")
+        return None
 
 if __name__ == "__main__":
     # Test with upcoming match
